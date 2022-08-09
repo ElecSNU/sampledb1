@@ -1,5 +1,6 @@
 CREATE TABLE user (
-  name STRING(MAX),,
+  id INT64,
+  name STRING(MAX),
   weight STRING(MAX),
   height STRING(MAX),
   breakfast INT64,
@@ -7,7 +8,7 @@ CREATE TABLE user (
   snacks INT64,
   dinner INT64,
   bmi FLOAT,
-) PRIMARY KEY(name);
+) PRIMARY KEY(id);
 
 CREATE INDEX CommentsByAuthor ON user(name);
 
