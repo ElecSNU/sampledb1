@@ -75,7 +75,7 @@ def main(instance_id, database_id):
   create_op.result()  # Wait for operation to complete.
 
   # File paths.
-  comments_file = 'hnewscomments.csv'
+  comments_file = 'user.csv'
   stories_file = 'nutrition1.csv'
 
   # Sets the Column names.
@@ -97,21 +97,19 @@ def main(instance_id, database_id):
   )
 
   c_columnnames = (
-      'id',
-      'by',
-      'author',
-      'dead',
-      'deleted',
-      'parent',
-      'ranking',
-      'text',
-      'time',
-      'time_ts',
+      'name',
+      'weight',
+      'height',
+      'breakfast',
+      'lunch',
+      'snacks',
+      'dinner',
+      'bmi',
   )
 
   # Insert data.
-  insert_data(database, stories_file, 'stories', s_columnnames)
-  insert_data(database, comments_file, 'comments', c_columnnames)
+  insert_data(database, stories_file, 'nutrition', s_columnnames)
+  insert_data(database, comments_file, 'user', c_columnnames)
 
 
 if __name__ == '__main__':
