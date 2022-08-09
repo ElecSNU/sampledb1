@@ -1,0 +1,652 @@
+0,Cornstarch,100 g,381,0.1 g,91.27 g,0.9 g,0 g,0 g,0 g,0.05 g,0.09 g,0 mg,8.32 g
+1,"Nuts, pecans",100 g,691,72 g,13.86 g,9.6 g,3.97 g,0.04 g,0  g,71.97 g,1.49 g,0 mg,3.52 g
+2,"Eggplant, raw",100 g,25,0.2 g,5.88 g,3.0 g,3.53 g,1.58 g,0 g,0.18 g,0.66 g,0 mg,92.30 g
+3,"Teff, uncooked",100 g,367,2.4 g,73.13 g,8.0 g,1.84 g,0.73 g,0  g,2.38 g,2.37 g,0 mg,8.82 g
+4,"Sherbet, orange",100 g,144,2 g,30.40 g,1.3 g,24.32 g,0 g,0 g,2.00 g,0.40 g,0 mg,66.10 g
+5,"Cauliflower, raw",100 g,25,0.3 g,4.97 g,2.0 g,1.91 g,0.94 g,0  g,0.28 g,0.76 g,0 mg,92.07 g
+6,"Taro leaves, raw",100 g,42,0.7 g,6.70 g,3.7 g,3.01 g,0 g,0 g,0.74 g,1.92 g,0 mg,85.66 g
+7,"Lamb, raw, ground",100 g,282,23 g,0.00 g,0 g,0 g,0 g,0 g,23.41 g,0.87 g,0 mg,59.47 g
+8,"Cheese, camembert",100 g,300,24 g,0.46 g,0 g,0.46 g,0 g,0 g,24.26 g,3.68 g,0 mg,51.80 g
+9,Vegetarian fillets,100 g,290,18 g,9.00 g,6.1 g,0.80 g,0 g,0 g,18.00 g,5.00 g,0 mg,45.00 g
+10,"PACE, Picante Sauce",100 g,25,0 g,6.25 g,3.1 g,6.25 g,0 g,0 g,0.00 g,3.85 g,0 mg,89.90 g
+11,"Goji berries, dried",100 g,349,0.4 g,77.06 g,13.0 g,45.61 g,0 g,0 g,0.39 g,0.78 g,0 mg,7.50 g
+12,"Mango nectar, canned",100 g,51,0.1 g,13.12 g,0.3 g,12.45 g,5.31 g,0  g,0.06 g,0.08 g,0 mg,86.63 g
+13,"Crackers, rusk toast",100 g,407,7.2 g,72.30 g,0 g,0 g,0 g,0 g,7.20 g,1.20 g,0 mg,5.50 g
+14,"Chicken, boiled, feet",100 g,215,15 g,0.20 g,0 g,0 g,0 g,0 g,14.60 g,0.00 g,0 mg,65.80 g
+15,"Quail, raw, meat only",100 g,134,4.5 g,0.00 g,0 g,0 g,0 g,0 g,4.53 g,1.32 g,0 mg,70.03 g
+16,"Pie, lemon, fried pies",100 g,316,16 g,42.60 g,2.6 g,0 g,0 g,0 g,16.10 g,1.10 g,0 mg,37.60 g
+17,"Peppers, raw, jalapeno",100 g,29,0.4 g,6.50 g,2.8 g,4.12 g,1.48 g,0  g,0.37 g,0.53 g,0 mg,91.69 g
+18,"Winged bean tuber, raw",100 g,148,0.9 g,28.10 g,0 g,0 g,0 g,0 g,0.90 g,2.00 g,0 mg,57.40 g
+19,"Salami, turkey, cooked",100 g,172,9.2 g,1.55 g,0.1 g,1.12 g,0 g,0 g,9.21 g,1.68 g,0 mg,68.80 g
+20,"Grapes, raw, muscadine",100 g,57,0.5 g,13.93 g,3.9 g,0 g,3.67 g,0  g,0.47 g,0.50 g,0 mg,84.29 g
+21,"Nuts, raw, ginkgo nuts",100 g,182,1.7 g,37.60 g,0 g,0 g,0 g,0 g,1.68 g,1.20 g,0 mg,55.20 g
+22,"Spices, ground, savory",100 g,272,5.9 g,68.73 g,0 g,0 g,0 g,0 g,5.91 g,9.63 g,0 mg,9.00 g
+23,"Candies, sesame crunch",100 g,516,33 g,50.30 g,7.7 g,31.17 g,0 g,0 g,33.30 g,2.60 g,0 mg,2.20 g
+24,"Cheese, low fat, cream",100 g,201,15 g,8.13 g,0 g,5.82 g,0.00 g,5.82 g,15.28 g,2.03 g,0 mg,66.72 g
+25,"PACE, Green Taco Sauce",100 g,25,0 g,6.25 g,0 g,6.25 g,0 g,0 g,0.00 g,3.05 g,0 mg,90.70 g
+26,"Syrup, Canadian, maple",100 g,270,0 g,67.38 g,0 g,59.92 g,0.65 g,0  g,0.00 g,0.47 g,0 mg,32.15 g
+27,"Ostrich, raw, top loin",100 g,119,3 g,0.00 g,0 g,0 g,0 g,0 g,2.95 g,0.73 g,0 mg,75.35 g
+28,"Chewing gum, sugarless",100 g,268,0.4 g,94.80 g,2.4 g,0 g,0 g,0 g,0.40 g,1.30 g,0 mg,3.50 g
+29,"Nuts, dried, pine nuts",100 g,673,68 g,13.08 g,3.7 g,3.59 g,0.07 g,0  g,68.37 g,2.59 g,0 mg,2.28 g
+30,"Pasta, unenriched, dry",100 g,371,1.5 g,74.67 g,3.2 g,2.67 g,0.12 g,0  g,1.51 g,0.88 g,0 mg,9.90 g
+31,"McDONALD'S, Side Salad",100 g,20,0.2 g,4.30 g,1.6 g,2.24 g,0.92 g,0  g,0.19 g,0.54 g,0 mg,93.93 g
+32,"Cookies, Marie biscuit",100 g,406,11 g,70.54 g,3.5 g,21.16 g,0 g,0 g,10.58 g,2.03 g,0 mg,9.79 g
+33,"Broccoli, raw, chinese",100 g,30,0.8 g,4.67 g,2.6 g,0.88 g,0 g,0 g,0.76 g,0.83 g,0 mg,92.55 g
+34,"McDONALD'S, Hash Brown",100 g,271,16 g,28.56 g,2.8 g,0.54 g,0.30 g,0  g,16.30 g,2.25 g,0 mg,50.42 g
+35,"Agave, raw (Southwest)",100 g,68,0.2 g,16.23 g,6.6 g,2.58 g,1.19 g,0  g,0.15 g,1.27 g,0 mg,81.83 g
+36,"Emu, raw, outside drum",100 g,103,0.5 g,0.00 g,0 g,0 g,0 g,0 g,0.48 g,1.00 g,0 mg,74.87 g
+37,"Nuts, dried, beechnuts",100 g,576,50 g,33.50 g,0 g,0 g,0 g,0 g,50.00 g,3.70 g,0 mg,6.60 g
+38,"Currants, dried, zante",100 g,283,0.3 g,74.08 g,6.8 g,67.28 g,0 g,0 g,0.27 g,2.36 g,0 mg,19.21 g
+39,"Lentils, raw, sprouted",100 g,106,0.6 g,22.14 g,0 g,0 g,0 g,0 g,0.55 g,1.00 g,0 mg,67.34 g
+40,"Gravy, mix, dry, onion",100 g,322,3 g,67.64 g,6.0 g,0 g,0 g,0 g,3.00 g,16.00 g,0 mg,4.36 g
+41,"Pie, fruit, fried pies",100 g,316,16 g,42.60 g,2.6 g,21.40 g,0 g,0 g,16.10 g,1.10 g,0 mg,37.60 g
+42,"Snacks, cakes, popcorn",100 g,384,3.1 g,80.10 g,2.9 g,0.72 g,0 g,0 g,3.10 g,2.00 g,0 mg,5.00 g
+43,"Snack, Mixed Berry Bar",100 g,383,11 g,58.84 g,7.9 g,26.32 g,0 g,0 g,10.53 g,1.97 g,0 mg,15.52 g
+44,"Fish, raw, sheepshead",100 g,108,2.4 g,0.00 g,0 g,0 g,0 g,0 g,2.41 g,1.09 g,0 mg,77.97 g
+45,"Babyfood, pear, juice",100 g,47,0 g,11.86 g,0.1 g,7.28 g,0 g,0 g,0.00 g,0.24 g,0 mg,87.90 g
+46,"Brussels sprouts, raw",100 g,43,0.3 g,8.95 g,3.8 g,2.20 g,0.81 g,0  g,0.30 g,1.37 g,0 mg,86.00 g
+47,"Broccoli raab, cooked",100 g,33,0.5 g,3.12 g,2.8 g,0.62 g,0.23 g,0  g,0.52 g,1.11 g,0 mg,91.41 g
+48,"Butter oil, anhydrous",100 g,876,99 g,0.00 g,0 g,0 g,0 g,0 g,99.48 g,0.00 g,0 mg,0.24 g
+49,"Chicory, raw, witloof",100 g,17,0.1 g,4.00 g,3.1 g,0 g,0 g,0 g,0.10 g,0.47 g,0 mg,94.52 g
+50,"KEEBLER, Waffle Cones",100 g,424,5.3 g,87.70 g,1.8 g,31.60 g,0 g,0 g,5.30 g,0 g,0 mg,2.00 g
+51,"KEEBLER, Waffle Bowls",100 g,424,5.3 g,87.70 g,1.8 g,31.60 g,0 g,0 g,5.30 g,0 g,0 mg,2.00 g
+52,"Broccoli, raw, leaves",100 g,28,0.4 g,5.06 g,2.3 g,1.48 g,0 g,0 g,0.35 g,0.92 g,0 mg,90.69 g
+53,"Durian, raw or frozen",100 g,147,5.3 g,27.09 g,3.8 g,0 g,0 g,0 g,5.33 g,1.12 g,0 mg,64.99 g
+54,"Tomatoes, raw, orange",100 g,16,0.2 g,3.18 g,0.9 g,0 g,0 g,0 g,0.19 g,0.69 g,0 mg,94.78 g
+55,"Tomatoes, raw, yellow",100 g,15,0.3 g,2.98 g,0.7 g,0 g,0 g,0 g,0.26 g,0.50 g,0 mg,95.28 g
+56,"Egg custards, dry mix",100 g,410,6.4 g,82.80 g,0 g,0 g,0 g,0 g,6.40 g,2.20 g,0 mg,1.70 g
+57,"Peanut flour, low fat",100 g,428,22 g,31.27 g,15.8 g,0 g,0 g,0 g,21.90 g,5.23 g,0 mg,7.80 g
+58,"Fish, smoked, haddock",100 g,116,1 g,0.00 g,0 g,0 g,0 g,0 g,0.96 g,1.62 g,0 mg,71.48 g
+59,"DENNY'S, french fries",100 g,282,14 g,35.20 g,3.5 g,0.85 g,0.41 g,0  g,14.13 g,1.20 g,0 mg,46.05 g
+60,"Ground turkey, cooked",100 g,203,10 g,0.00 g,0 g,0 g,0 g,0 g,10.40 g,1.26 g,0 mg,62.07 g
+61,"MURRAY, Vanilla Wafer",100 g,461,17 g,72.90 g,1.4 g,31.50 g,0 g,0 g,17.40 g,0 g,0 mg,4.10 g
+62,"WENDY'S, french fries",100 g,301,14 g,39.73 g,4.0 g,0.40 g,0.40 g,0  g,14.10 g,1.83 g,0 mg,40.62 g
+63,"Bread, toasted, wheat",100 g,313,4.3 g,55.77 g,4.7 g,6.42 g,0 g,0 g,4.27 g,2.77 g,0 mg,24.23 g
+64,"Danish pastry, cheese",100 g,374,22 g,37.20 g,1.0 g,6.95 g,0 g,0 g,21.90 g,1.50 g,0 mg,31.40 g
+65,"Nuts, glazed, walnuts",100 g,500,36 g,47.59 g,3.6 g,32.14 g,0 g,0 g,35.71 g,2.13 g,0 mg,6.28 g
+66,"Spices, garlic powder",100 g,331,0.7 g,72.73 g,9.0 g,2.43 g,0.07 g,0  g,0.73 g,3.54 g,0 mg,6.45 g
+67,"Oil, soybean lecithin",100 g,763,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+68,"Egg, fresh, raw, yolk",100 g,322,27 g,3.59 g,0 g,0.56 g,0.18 g,0.07 g,26.54 g,1.71 g,0 mg,52.31 g
+69,"Fireweed, raw, leaves",100 g,103,2.8 g,19.22 g,10.6 g,0 g,0 g,0 g,2.75 g,2.54 g,0 mg,70.78 g
+70,"Beef, pastrami, cured",100 g,147,5.8 g,0.36 g,0 g,0.10 g,0.00 g,0  g,5.82 g,3.40 g,0 mg,69.53 g
+71,"Ice creams, chocolate",100 g,216,11 g,28.20 g,1.2 g,25.36 g,0 g,0 g,11.00 g,1.00 g,3.00 mg,55.70 g
+72,"Snacks, potato sticks",100 g,522,34 g,53.30 g,3.4 g,0.22 g,0 g,0 g,34.40 g,3.30 g,0 mg,2.20 g
+73,"USDA Commodity, salsa",100 g,36,0.2 g,7.00 g,1.4 g,0 g,0 g,0 g,0.20 g,1.60 g,0 mg,89.70 g
+74,"Figs, uncooked, dried",100 g,249,0.9 g,63.87 g,9.8 g,47.92 g,24.79 g,0  g,0.93 g,1.86 g,0 mg,30.05 g
+75,"Game meat, raw, horse",100 g,133,4.6 g,0.00 g,0 g,0 g,0 g,0 g,4.60 g,0.99 g,0 mg,72.63 g
+76,"Syrup, fruit flavored",100 g,261,0 g,65.10 g,0 g,65.00 g,0 g,0 g,0.02 g,0.06 g,0 mg,34.82 g
+77,"Broccoli, raw, stalks",100 g,28,0.4 g,5.24 g,0 g,0 g,0 g,0 g,0.35 g,0.92 g,0 mg,90.69 g
+78,"Cream, cultured, sour",100 g,198,19 g,4.63 g,0 g,3.41 g,0.00 g,3.41 g,19.35 g,0.51 g,0 mg,73.07 g
+79,"Gravy, canned, au jus",100 g,16,0.2 g,2.50 g,0 g,0 g,0 g,0 g,0.20 g,1.60 g,0 mg,94.50 g
+80,"Crackers, whole-wheat",100 g,427,14 g,69.55 g,10.3 g,1.19 g,0.32 g,0  g,14.13 g,2.80 g,0 mg,2.94 g
+81,"Peanuts, raw, spanish",100 g,570,50 g,15.83 g,9.5 g,0 g,0 g,0 g,49.60 g,2.03 g,0 mg,6.39 g
+82,"Hominy, white, canned",100 g,72,0.9 g,14.26 g,2.5 g,1.82 g,0 g,0 g,0.88 g,0.86 g,0 mg,82.53 g
+83,"Game meat, raw, moose",100 g,102,0.7 g,0.00 g,0 g,0 g,0 g,0 g,0.74 g,1.13 g,0 mg,75.55 g
+84,"Pears, red anjou, raw",100 g,62,0.1 g,14.94 g,3.0 g,9.54 g,2.74 g,0 g,0.14 g,0.35 g,0 mg,84.24 g
+85,"Horseradish, prepared",100 g,48,0.7 g,11.29 g,3.3 g,7.99 g,0 g,0 g,0.69 g,1.76 g,0 mg,85.08 g
+86,"Fish, raw, butterfish",100 g,146,8 g,0.00 g,0 g,0 g,0 g,0 g,8.02 g,1.20 g,0 mg,74.13 g
+87,"Lebanon bologna, beef",100 g,172,10 g,0.44 g,0 g,0 g,0 g,0 g,10.44 g,4.32 g,0 mg,65.77 g
+88,Ham and cheese spread,100 g,245,19 g,2.28 g,0 g,0 g,0 g,0 g,18.53 g,3.90 g,0 mg,59.13 g
+89,"TACO BELL, Taco Salad",100 g,170,9.2 g,15.10 g,3.0 g,0 g,0.26 g,0.15 g,9.17 g,1.71 g,0 mg,67.32 g
+90,"Sauce, worcestershire",100 g,78,0 g,19.46 g,0 g,10.03 g,0 g,0 g,0.00 g,2.00 g,0 mg,78.54 g
+91,"Candies, marshmallows",100 g,318,0.2 g,81.30 g,0.1 g,57.56 g,0 g,0 g,0.20 g,0.30 g,0 mg,16.40 g
+92,"Hummus, home prepared",100 g,177,8.6 g,20.12 g,4.0 g,0.27 g,0 g,0 g,8.59 g,1.56 g,0 mg,64.87 g
+93,Horned melon (Kiwano),100 g,44,1.3 g,7.56 g,0 g,0 g,0 g,0 g,1.26 g,0.44 g,0 mg,88.97 g
+94,Ice cream sundae cone,100 g,254,14 g,28.89 g,1.0 g,21.26 g,0 g,0 g,14.00 g,0.80 g,0 mg,53.31 g
+95,"Peppers, raw, serrano",100 g,32,0.4 g,6.70 g,3.7 g,3.83 g,0 g,0 g,0.44 g,0.87 g,0 mg,90.25 g
+96,"Cabbage, cooked, napa",100 g,12,0.2 g,2.23 g,0 g,0 g,0 g,0 g,0.17 g,0.17 g,0 mg,96.33 g
+97,"Peppers, dried, ancho",100 g,281,8.2 g,51.42 g,21.6 g,0 g,0 g,0 g,8.20 g,5.89 g,0 mg,22.63 g
+98,"Parsley, freeze-dried",100 g,271,5.2 g,42.38 g,32.7 g,0 g,0 g,0 g,5.20 g,19.12 g,0 mg,2.00 g
+99,"Spices, black, pepper",100 g,251,3.3 g,63.95 g,25.3 g,0.64 g,0.24 g,0  g,3.26 g,4.49 g,0 mg,12.46 g
+100,"Spices, white, pepper",100 g,296,2.1 g,68.61 g,26.2 g,0 g,0 g,0 g,2.12 g,1.59 g,0 mg,11.42 g
+101,"Yambean (jicama), raw",100 g,38,0.1 g,8.82 g,4.9 g,1.80 g,0 g,0 g,0.09 g,0.30 g,0 mg,90.07 g
+102,"Nuts, dried, pilinuts",100 g,719,80 g,3.98 g,0 g,0 g,0 g,0 g,79.55 g,2.91 g,0 mg,2.77 g
+103,"Kiwifruit, raw, green",100 g,61,0.5 g,14.66 g,3.0 g,8.99 g,4.11 g,0  g,0.52 g,0.61 g,0 mg,83.07 g
+104,SILK Plain soy yogurt,100 g,66,1.8 g,9.69 g,0.4 g,5.29 g,0 g,0 g,1.76 g,1.24 g,0 mg,84.67 g
+105,"PACE, Enchilada Sauce",100 g,40,0 g,8.33 g,1.7 g,6.67 g,0 g,0 g,0.00 g,2.90 g,0 mg,87.10 g
+106,Yeast extract spread,100 g,185,0.9 g,20.42 g,6.5 g,1.60 g,0.00 g,0  g,0.90 g,13.90 g,0 mg,40.90 g
+107,"Tomatoes, raw, green",100 g,23,0.2 g,5.10 g,1.1 g,4.00 g,0 g,0 g,0.20 g,0.50 g,0 mg,93.00 g
+108,"Mollusks, raw, snail",100 g,90,1.4 g,2.00 g,0 g,0 g,0 g,0 g,1.40 g,1.30 g,0 mg,79.20 g
+109,"Emu, raw, fan fillet",100 g,103,0.8 g,0.00 g,0 g,0 g,0 g,0 g,0.80 g,1.10 g,0 mg,74.62 g
+110,"Pasta, enriched, dry",100 g,371,1.5 g,74.67 g,3.2 g,2.67 g,0.12 g,0  g,1.51 g,0.88 g,0 mg,9.90 g
+111,"Cookies, gingersnaps",100 g,416,9.8 g,76.90 g,2.2 g,19.92 g,0 g,0 g,9.80 g,2.40 g,0 mg,5.30 g
+112,"Sour cream, fat free",100 g,74,0 g,15.60 g,0 g,0.39 g,0 g,0 g,0.00 g,0.70 g,0 mg,80.60 g
+113,"MURRAY, Honey Graham",100 g,445,13 g,75.70 g,2.7 g,22.00 g,0 g,0 g,13.20 g,0 g,0 mg,3.50 g
+114,"Frankfurter, chicken",100 g,223,16 g,2.74 g,0 g,2.98 g,0 g,0 g,16.19 g,3.06 g,0 mg,62.50 g
+115,"Ham, canned, chopped",100 g,239,19 g,0.26 g,0 g,0 g,0 g,0 g,18.83 g,4.08 g,0 mg,60.77 g
+116,"Spices, dried, thyme",100 g,276,7.4 g,63.94 g,37.0 g,1.71 g,0 g,0 g,7.43 g,11.74 g,0 mg,7.79 g
+117,"Carrot juice, canned",100 g,40,0.2 g,9.28 g,0.8 g,3.91 g,0 g,0 g,0.15 g,0.75 g,0 mg,88.87 g
+118,"Corn, dried (Navajo)",100 g,386,5.2 g,74.93 g,0 g,5.38 g,1.00 g,0  g,5.22 g,1.86 g,0 mg,8.10 g
+119,"Pate, truffle flavor",100 g,327,29 g,6.30 g,0 g,0 g,0 g,0 g,28.50 g,2.20 g,0 mg,51.80 g
+120,"Fruit butters, apple",100 g,173,0.3 g,42.47 g,1.5 g,35.30 g,0 g,0 g,0.30 g,0.39 g,0 mg,56.45 g
+121,"Fast foods, coleslaw",100 g,153,9.9 g,14.89 g,1.9 g,12.19 g,1.69 g,0  g,9.91 g,0.84 g,0 mg,73.42 g
+122,"Salami, beef, cooked",100 g,261,22 g,1.90 g,0 g,1.50 g,0 g,0 g,22.20 g,3.30 g,0 mg,60.00 g
+123,"Spices, chili powder",100 g,282,14 g,49.70 g,34.8 g,7.19 g,2.14 g,0  g,14.28 g,11.81 g,0 mg,10.75 g
+124,"Spices, caraway seed",100 g,333,15 g,49.90 g,38.0 g,0.64 g,0 g,0 g,14.59 g,5.87 g,0 mg,9.87 g
+125,"Spices, dried, basil",100 g,233,4.1 g,47.75 g,37.7 g,1.71 g,0.75 g,0  g,4.07 g,14.85 g,0 mg,10.35 g
+126,"Pickle relish, sweet",100 g,130,0.5 g,35.06 g,1.1 g,29.13 g,0 g,0 g,0.47 g,2.03 g,0 mg,62.07 g
+127,"Chives, freeze-dried",100 g,311,3.5 g,64.29 g,26.2 g,0 g,0 g,0 g,3.50 g,9.01 g,0 mg,2.00 g
+128,"Fish, raw, sablefish",100 g,195,15 g,0.00 g,0 g,0 g,0 g,0 g,15.30 g,1.05 g,0 mg,71.02 g
+129,"Crackers, multigrain",100 g,482,20 g,67.60 g,3.5 g,12.00 g,0 g,0 g,20.40 g,2.40 g,0 mg,2.50 g
+130,"Spices, ground, mace",100 g,475,32 g,50.50 g,20.2 g,0 g,0 g,0 g,32.38 g,2.23 g,0 mg,8.17 g
+131,"Spices, onion powder",100 g,341,1 g,79.12 g,15.2 g,6.63 g,0.73 g,0  g,1.04 g,4.04 g,0 mg,5.39 g
+132,"Butter, without salt",100 g,717,81 g,0.06 g,0 g,0.06 g,0 g,0 g,81.11 g,0.09 g,0 mg,17.94 g
+133,"Rice noodles, cooked",100 g,108,0.2 g,24.01 g,1.0 g,0.03 g,0 g,0 g,0.20 g,0.18 g,0 mg,73.82 g
+134,Barley flour or meal,100 g,345,1.6 g,74.52 g,10.1 g,0.80 g,0 g,0 g,1.60 g,1.28 g,0 mg,12.11 g
+135,"Sesbania flower, raw",100 g,27,0 g,6.73 g,0 g,0 g,0 g,0 g,0.04 g,0.38 g,0 mg,91.58 g
+136,"Garlic bread, frozen",100 g,350,17 g,41.72 g,2.5 g,3.69 g,0.42 g,0  g,16.61 g,1.54 g,0 mg,31.78 g
+137,"KFC, Popcorn Chicken",100 g,351,22 g,21.18 g,1.0 g,0 g,0.00 g,0  g,21.74 g,3.79 g,0 mg,35.62 g
+138,"APPLEBEE'S, coleslaw",100 g,120,7.1 g,13.17 g,2.8 g,9.33 g,2.53 g,0  g,7.09 g,0.79 g,0 mg,78.15 g
+139,"Rolls, sweet, dinner",100 g,321,7.4 g,53.58 g,3.1 g,15.38 g,4.81 g,1.06 g,7.37 g,1.18 g,0 mg,27.83 g
+140,"Cherries, raw, sweet",100 g,63,0.2 g,16.01 g,2.1 g,12.82 g,6.59 g,0  g,0.20 g,0.48 g,0 mg,82.25 g
+141,"Ostrich, raw, ground",100 g,165,8.7 g,0.00 g,0 g,0 g,0 g,0 g,8.70 g,0.73 g,0 mg,71.07 g
+142,"SILK Coffee, soymilk",100 g,62,1.4 g,10.29 g,0 g,9.47 g,0 g,0 g,1.44 g,0.65 g,0 mg,85.56 g
+143,"Snacks, banana chips",100 g,519,34 g,58.40 g,7.7 g,35.34 g,0 g,0 g,33.60 g,1.40 g,0 mg,4.30 g
+144,"Peaches, raw, yellow",100 g,39,0.3 g,9.54 g,1.5 g,8.39 g,1.95 g,0  g,0.25 g,0.43 g,0 mg,88.87 g
+145,"Rolls, wheat, dinner",100 g,273,6.3 g,46.00 g,3.8 g,1.63 g,0 g,0 g,6.30 g,2.10 g,0 mg,37.00 g
+146,"Candies, HEATH BITES",100 g,530,30 g,63.39 g,2.0 g,60.02 g,0 g,0 g,30.38 g,1.16 g,0 mg,0.86 g
+147,"Chicken, raw, ground",100 g,143,8.1 g,0.04 g,0 g,0 g,0 g,0 g,8.10 g,1.17 g,0 mg,73.24 g
+148,"Pears, bartlett, raw",100 g,63,0.2 g,15.01 g,3.1 g,9.69 g,2.50 g,0  g,0.16 g,0.30 g,0 mg,84.14 g
+149,"Toppings, strawberry",100 g,254,0.1 g,66.30 g,0.7 g,27.38 g,0 g,0 g,0.10 g,0.40 g,0 mg,33.00 g
+150,"KEEBLER, Sugar Cones",100 g,375,3.7 g,78.00 g,2.1 g,26.40 g,0 g,0 g,3.70 g,0 g,0 mg,1.00 g
+151,"Seaweed, raw, wakame",100 g,45,0.6 g,9.14 g,0.5 g,0.65 g,0 g,0 g,0.64 g,7.20 g,0 mg,79.99 g
+152,"Seaweed, dried, agar",100 g,306,0.3 g,80.88 g,7.7 g,2.97 g,0 g,0 g,0.30 g,3.93 g,0 mg,8.68 g
+153,"Bread, cracked-wheat",100 g,260,3.9 g,49.50 g,5.5 g,0 g,0 g,0 g,3.90 g,2.10 g,0 mg,35.80 g
+154,"Amaranth leaves, raw",100 g,23,0.3 g,4.02 g,0 g,0 g,0 g,0 g,0.33 g,1.50 g,0 mg,91.69 g
+155,"Barley, raw, pearled",100 g,352,1.2 g,77.72 g,15.6 g,0.80 g,0 g,0 g,1.16 g,1.11 g,0 mg,10.09 g
+156,"Polish sausage, pork",100 g,326,29 g,1.63 g,0 g,0 g,0 g,0 g,28.72 g,2.40 g,0 mg,53.15 g
+157,"Spices, curry powder",100 g,325,14 g,55.83 g,53.2 g,2.76 g,1.14 g,0  g,14.01 g,7.07 g,0 mg,8.80 g
+158,"Bacon bits, meatless",100 g,476,26 g,28.60 g,10.2 g,0 g,0 g,0 g,25.90 g,5.50 g,0 mg,8.00 g
+159,"Semolina, unenriched",100 g,360,1.1 g,72.83 g,3.9 g,0 g,0 g,0 g,1.05 g,0.77 g,0 mg,12.67 g
+160,"Grape leaves, canned",100 g,69,2 g,11.71 g,9.9 g,0 g,0 g,0 g,1.97 g,5.95 g,0 mg,76.10 g
+161,"Spices, ground, sage",100 g,315,13 g,60.73 g,40.3 g,1.71 g,0 g,0 g,12.75 g,7.95 g,0 mg,7.96 g
+162,"PACE, Red Taco Sauce",100 g,50,0 g,12.50 g,0 g,6.25 g,0 g,0 g,0.00 g,2.20 g,0 mg,85.30 g
+163,"DENNY'S, hash browns",100 g,197,9 g,26.59 g,2.7 g,1.38 g,0.58 g,0  g,8.99 g,2.08 g,0 mg,59.85 g
+164,"DENNY'S, onion rings",100 g,385,22 g,41.05 g,2.4 g,4.76 g,1.22 g,0  g,22.23 g,2.51 g,0 mg,28.92 g
+165,"Ostrich, raw, oyster",100 g,125,3.7 g,0.00 g,0 g,0 g,0 g,0 g,3.67 g,0.62 g,0 mg,75.62 g
+166,"Oil, corn and canola",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+167,"Pumpkin flowers, raw",100 g,15,0.1 g,3.28 g,0 g,0 g,0 g,0 g,0.07 g,0.48 g,0 mg,95.15 g
+168,"Celery flakes, dried",100 g,319,2.1 g,63.70 g,27.8 g,35.90 g,0 g,0 g,2.10 g,13.90 g,0 mg,9.00 g
+169,"Soybean, curd cheese",100 g,151,8.1 g,6.90 g,0 g,1.60 g,0 g,0 g,8.10 g,1.60 g,0 mg,70.90 g
+170,"Game meat, raw, bear",100 g,161,8.3 g,0.00 g,0 g,0 g,0 g,0 g,8.30 g,0.70 g,0 mg,71.20 g
+171,"Game meat, raw, deer",100 g,120,2.4 g,0.00 g,0 g,0 g,0 g,0 g,2.42 g,1.16 g,0 mg,73.57 g
+172,"Oranges, navels, raw",100 g,49,0.2 g,12.54 g,2.2 g,8.50 g,1.97 g,0  g,0.15 g,0.43 g,0 mg,85.97 g
+173,"Fish, raw, swordfish",100 g,144,6.7 g,0.00 g,0 g,0 g,0 g,0 g,6.65 g,1.44 g,0 mg,73.38 g
+174,"Taro, raw, tahitian",100 g,44,1 g,6.91 g,0 g,0 g,0 g,0 g,0.97 g,1.38 g,0 mg,87.96 g
+175,"Chicory greens, raw",100 g,23,0.3 g,4.70 g,4.0 g,0.70 g,0 g,0 g,0.30 g,1.30 g,0 mg,92.00 g
+176,"Hearts of palm, raw",100 g,115,0.2 g,25.61 g,1.5 g,17.16 g,0 g,0 g,0.20 g,1.99 g,0 mg,69.50 g
+177,"Chayote, raw, fruit",100 g,19,0.1 g,4.51 g,1.7 g,1.66 g,0 g,0 g,0.13 g,0.30 g,0 mg,94.24 g
+178,"Fish, smoked, cisco",100 g,177,12 g,0.00 g,0 g,0 g,0 g,0 g,11.90 g,2.00 g,0 mg,69.80 g
+179,"Frankfurter, turkey",100 g,223,17 g,3.81 g,0 g,1.21 g,1.03 g,0  g,17.29 g,3.68 g,0 mg,62.99 g
+180,"Candies, jellybeans",100 g,375,0.1 g,93.55 g,0.2 g,70 g,0 g,0 g,0.05 g,0.10 g,0 mg,6.30 g
+181,"Oil, ucuhuba butter",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+182,Soy protein isolate,100 g,335,3.4 g,0.00 g,0 g,0 g,0 g,0 g,3.39 g,3.58 g,0 mg,4.98 g
+183,"Syrups, light, corn",100 g,283,0.2 g,76.79 g,0 g,76.77 g,0 g,0 g,0.20 g,0.20 g,0 mg,22.81 g
+184,"Fish, raw, milkfish",100 g,148,6.7 g,0.00 g,0 g,0 g,0 g,0 g,6.73 g,1.14 g,0 mg,70.85 g
+185,"Fish, raw, monkfish",100 g,76,1.5 g,0.00 g,0 g,0 g,0 g,0 g,1.52 g,1.21 g,0 mg,83.24 g
+186,"Mother's loaf, pork",100 g,282,22 g,7.53 g,0 g,0 g,0 g,0 g,22.30 g,3.20 g,0 mg,54.90 g
+187,"Tapioca, dry, pearl",100 g,358,0 g,88.69 g,0.9 g,3.35 g,0 g,0 g,0.02 g,0.11 g,0 mg,10.99 g
+188,"Guavas, raw, common",100 g,68,1 g,14.32 g,5.4 g,8.92 g,0 g,0 g,0.95 g,1.39 g,0 mg,80.80 g
+189,"Spices, celery seed",100 g,392,25 g,41.35 g,11.8 g,0.67 g,0 g,0 g,25.27 g,9.27 g,0 mg,6.04 g
+190,"Candies, peanut bar",100 g,522,34 g,47.40 g,4.1 g,42.22 g,0 g,0 g,33.70 g,1.90 g,0 mg,1.60 g
+191,"Bread, toasted, rye",100 g,284,3.6 g,53.10 g,6.4 g,4.23 g,0 g,0 g,3.60 g,2.70 g,0 mg,31.00 g
+192,"Oil, apricot kernel",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+193,"Candies, YORK BITES",100 g,394,7.3 g,81.64 g,2.0 g,75.00 g,0 g,0 g,7.32 g,0.17 g,0 mg,9.09 g
+194,"Meatballs, meatless",100 g,197,9 g,8.00 g,4.6 g,1.25 g,0 g,0 g,9.00 g,4.00 g,0 mg,58.00 g
+195,"Emu, raw, full rump",100 g,112,1.6 g,0.00 g,0 g,0 g,0 g,0 g,1.64 g,1.14 g,0 mg,73.79 g
+196,"Mustard greens, raw",100 g,27,0.4 g,4.67 g,3.2 g,1.32 g,0 g,0 g,0.42 g,1.36 g,0 mg,90.70 g
+197,"Seaweed, raw, laver",100 g,35,0.3 g,5.11 g,0.3 g,0.49 g,0 g,0 g,0.28 g,3.77 g,0 mg,85.03 g
+198,"Sweet rolls, cheese",100 g,360,18 g,43.70 g,1.2 g,0 g,0 g,0 g,18.30 g,1.40 g,0 mg,29.40 g
+199,"Figs, stewed, dried",100 g,107,0.4 g,27.57 g,4.2 g,23.35 g,0 g,0 g,0.40 g,0.80 g,0 mg,69.80 g
+200,"Bread sticks, plain",100 g,412,9.5 g,68.40 g,3.0 g,1.26 g,0 g,0 g,9.50 g,3.90 g,0 mg,6.10 g
+201,"SILK Mocha, soymilk",100 g,58,1.4 g,9.05 g,0 g,7.41 g,0 g,0 g,1.44 g,0.65 g,0 mg,86.80 g
+202,Milk and cereal bar,100 g,413,11 g,72.05 g,0.4 g,45.97 g,0 g,0 g,10.98 g,1.76 g,0 mg,8.69 g
+203,"Bread, pumpernickel",100 g,250,3.1 g,47.50 g,6.5 g,0.53 g,0 g,0 g,3.10 g,2.60 g,0 mg,37.90 g
+204,"Game meat, raw, elk",100 g,111,1.5 g,0.00 g,0 g,0 g,0 g,0 g,1.45 g,1.00 g,0 mg,74.38 g
+205,"PACE, Pico De Gallo",100 g,31,0 g,9.38 g,0 g,6.25 g,0 g,0 g,0.00 g,2.62 g,0 mg,88.00 g
+206,"Ostrich, raw, round",100 g,116,2.4 g,0.00 g,0 g,0 g,0 g,0 g,2.40 g,0.62 g,0 mg,75.68 g
+207,"HORMEL, Cure 81 Ham",100 g,106,3.6 g,0.21 g,0 g,0 g,0 g,0 g,3.59 g,3.52 g,0 mg,74.25 g
+208,"Prune juice, canned",100 g,71,0 g,17.45 g,1.0 g,16.45 g,0 g,0 g,0.03 g,0.68 g,0 mg,81.24 g
+209,"McDONALD'S, BIG MAC",100 g,257,15 g,20.08 g,1.6 g,3.97 g,1.04 g,0.32 g,14.96 g,1.87 g,0 mg,51.30 g
+210,"Soy flour, defatted",100 g,327,1.2 g,33.92 g,17.5 g,16.42 g,0 g,0 g,1.22 g,6.15 g,0 mg,7.25 g
+211,"Bread, toasted, egg",100 g,315,6.6 g,52.60 g,2.5 g,1.94 g,0 g,0 g,6.60 g,2.00 g,0 mg,28.30 g
+212,"Fish, raw, mahimahi",100 g,85,0.7 g,0.00 g,0 g,0 g,0 g,0 g,0.70 g,2.10 g,0 mg,77.55 g
+213,"Fish, raw, bluefish",100 g,124,4.2 g,0.00 g,0 g,0 g,0 g,0 g,4.24 g,1.04 g,0 mg,70.86 g
+214,"Spices, fennel seed",100 g,345,15 g,52.29 g,39.8 g,0 g,0 g,0 g,14.87 g,8.22 g,0 mg,8.81 g
+215,"Potatoes, skin, raw",100 g,58,0.1 g,12.44 g,2.5 g,0 g,0 g,0 g,0.10 g,1.61 g,0 mg,83.29 g
+216,"Pepper, raw, banana",100 g,27,0.5 g,5.35 g,3.4 g,1.95 g,0 g,0 g,0.45 g,0.73 g,0 mg,91.81 g
+217,"Drumstick pods, raw",100 g,37,0.2 g,8.53 g,3.2 g,0 g,0 g,0 g,0.20 g,0.97 g,0 mg,88.20 g
+218,"Toppings, pineapple",100 g,253,0.1 g,66.40 g,0.4 g,21.01 g,0 g,0 g,0.10 g,0.40 g,0 mg,33.00 g
+219,Acorn stew (Apache),100 g,95,3.5 g,9.22 g,0.7 g,0.34 g,0.00 g,0  g,3.47 g,0.72 g,0 mg,79.78 g
+220,"Tomatoes, sun-dried",100 g,258,3 g,55.76 g,12.3 g,37.59 g,0 g,0 g,2.97 g,12.60 g,0 mg,14.56 g
+221,"Guava sauce, cooked",100 g,36,0.1 g,9.48 g,3.6 g,5.88 g,0 g,0 g,0.14 g,0.50 g,0 mg,89.56 g
+222,"Pumpkin leaves, raw",100 g,19,0.4 g,2.33 g,0 g,0 g,0 g,0 g,0.40 g,1.24 g,0 mg,92.88 g
+223,"Melons, raw, casaba",100 g,28,0.1 g,6.58 g,0.9 g,5.69 g,0 g,0 g,0.10 g,0.36 g,0 mg,91.85 g
+224,"Melon balls, frozen",100 g,33,0.3 g,7.94 g,0.7 g,0 g,0 g,0 g,0.25 g,0.71 g,0 mg,90.26 g
+225,"Fish oil, cod liver",100 g,902,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+226,"Nuts, dried, acorns",100 g,509,31 g,53.66 g,0 g,0 g,0 g,0 g,31.41 g,1.78 g,0 mg,5.06 g
+227,"Rolls, pumpernickel",100 g,276,2.8 g,51.87 g,5.4 g,0.40 g,0 g,0 g,2.80 g,2.53 g,0 mg,32.00 g
+228,"Gravy, dry, chicken",100 g,381,9.7 g,62.09 g,0 g,0 g,0 g,0 g,9.73 g,13.06 g,0 mg,3.85 g
+229,"Fish, raw, tilefish",100 g,96,2.3 g,0.00 g,0 g,0 g,0 g,0 g,2.31 g,1.14 g,0 mg,78.90 g
+230,"Ice creams, vanilla",100 g,207,11 g,23.60 g,0.7 g,21.22 g,0 g,0 g,11.00 g,0.90 g,0 mg,61.00 g
+231,"SILK Plain, soymilk",100 g,41,1.7 g,3.29 g,0.4 g,2.47 g,0 g,0 g,1.65 g,0.65 g,0 mg,91.53 g
+232,"Cabbage, raw, savoy",100 g,27,0.1 g,6.10 g,3.1 g,2.27 g,0 g,0 g,0.10 g,0.80 g,0 mg,91.00 g
+233,"Fish, raw, tilapia",100 g,96,1.7 g,0.00 g,0 g,0 g,0 g,0 g,1.70 g,0.93 g,0 mg,78.08 g
+234,"Broccoli raab, raw",100 g,22,0.5 g,2.85 g,2.7 g,0.38 g,0.10 g,0  g,0.49 g,0.93 g,0 mg,92.55 g
+235,"Corn grain, yellow",100 g,365,4.7 g,74.26 g,7.3 g,0.64 g,0 g,0 g,4.74 g,1.20 g,0 mg,10.37 g
+236,"Turtle, raw, green",100 g,89,0.5 g,0.00 g,0 g,0 g,0 g,0 g,0.50 g,1.20 g,0 mg,78.50 g
+237,"Chicory roots, raw",100 g,72,0.2 g,17.51 g,1.5 g,8.73 g,0 g,0 g,0.20 g,0.89 g,0 mg,80.00 g
+238,Ice cream sandwich,100 g,237,8.6 g,37.14 g,0 g,18.57 g,0 g,0 g,8.57 g,1.10 g,4.00 mg,48.90 g
+239,"Croutons, seasoned",100 g,465,18 g,63.50 g,5.0 g,4.41 g,0 g,0 g,18.30 g,3.80 g,0 mg,3.60 g
+240,"Snacks, taro chips",100 g,498,25 g,68.10 g,7.2 g,3.82 g,0 g,0 g,24.90 g,2.70 g,0 mg,2.00 g
+241,"Prickly pears, raw",100 g,41,0.5 g,9.57 g,3.6 g,0 g,0 g,0 g,0.51 g,1.64 g,0 mg,87.55 g
+242,"Fish, raw, haddock",100 g,74,0.5 g,0.00 g,0 g,0 g,0 g,0 g,0.45 g,1.28 g,0 mg,83.38 g
+243,"Liver cheese, pork",100 g,304,26 g,2.10 g,0 g,0 g,0 g,0 g,25.60 g,3.50 g,0 mg,53.60 g
+244,"Ground turkey, raw",100 g,148,7.7 g,0.00 g,0 g,0 g,0 g,0 g,7.66 g,1.00 g,0 mg,72.36 g
+245,Jams and preserves,100 g,278,0.1 g,68.86 g,1.1 g,48.50 g,0 g,0 g,0.07 g,0.23 g,0 mg,30.47 g
+246,"Carrots, raw, baby",100 g,35,0.1 g,8.24 g,2.9 g,4.76 g,1.04 g,0  g,0.13 g,0.63 g,0 mg,90.35 g
+247,"Oil, nutmeg butter",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+248,"Semolina, enriched",100 g,360,1.1 g,72.83 g,3.9 g,0 g,0 g,0 g,1.05 g,0.77 g,0 mg,12.67 g
+249,"Spices, anise seed",100 g,337,16 g,50.02 g,14.6 g,0 g,0 g,0 g,15.90 g,6.95 g,0 mg,9.54 g
+250,"Snacks, corn cakes",100 g,387,2.4 g,83.40 g,1.9 g,23.47 g,0 g,0 g,2.40 g,1.50 g,0 mg,4.60 g
+251,"Catsup, low sodium",100 g,101,0.1 g,27.40 g,0.3 g,21.27 g,10.25 g,0  g,0.10 g,2.94 g,0 mg,68.51 g
+252,"Jute, raw, potherb",100 g,34,0.3 g,5.80 g,0 g,0 g,0 g,0 g,0.25 g,1.58 g,0 mg,87.72 g
+253,"Fast food, biscuit",100 g,370,19 g,42.82 g,2.5 g,3.88 g,0.00 g,1.81 g,18.92 g,3.31 g,0 mg,27.88 g
+254,"Bagels, multigrain",100 g,241,1.2 g,47.47 g,6.2 g,8.66 g,0 g,0 g,1.24 g,1.99 g,0 mg,39.40 g
+255,"Beef, dried, cured",100 g,153,1.9 g,2.76 g,0 g,2.70 g,0 g,0 g,1.94 g,10.40 g,0 mg,53.80 g
+256,"Nuts, almond paste",100 g,458,28 g,47.81 g,4.8 g,36.25 g,0 g,0 g,27.74 g,1.37 g,0 mg,14.08 g
+257,"Seaweed, raw, kelp",100 g,43,0.6 g,9.57 g,1.3 g,0.60 g,0 g,0 g,0.56 g,6.61 g,0 mg,81.58 g
+258,"Seaweed, raw, agar",100 g,26,0 g,6.75 g,0.5 g,0.28 g,0 g,0 g,0.03 g,1.36 g,0 mg,91.32 g
+259,"Fish oil, menhaden",100 g,902,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+260,"Rolls, egg, dinner",100 g,307,6.4 g,52.00 g,3.7 g,4.30 g,0 g,0 g,6.40 g,1.70 g,0 mg,30.40 g
+261,"Bread, white wheat",100 g,238,2.2 g,43.91 g,9.2 g,5.00 g,1.50 g,0  g,2.15 g,3.69 g,0 mg,39.60 g
+262,"Onions, raw, sweet",100 g,32,0.1 g,7.55 g,0.9 g,5.02 g,2.26 g,0.02 g,0.08 g,0.34 g,0 mg,91.24 g
+263,"Onions, raw, welsh",100 g,34,0.4 g,6.50 g,2.4 g,2.18 g,0 g,0 g,0.40 g,0.70 g,0 mg,90.50 g
+264,"SILK Chai, soymilk",100 g,53,1.4 g,7.82 g,0 g,5.76 g,0 g,0 g,1.44 g,0.65 g,0 mg,87.62 g
+265,"Rolls, rye, dinner",100 g,286,3.4 g,53.10 g,4.9 g,1.17 g,0 g,0 g,3.40 g,2.90 g,0 mg,30.10 g
+266,"Gravy, dry, au jus",100 g,313,9.6 g,47.49 g,0 g,0 g,0 g,0 g,9.63 g,30.94 g,0 mg,2.74 g
+267,"Cheese, neufchatel",100 g,253,23 g,3.59 g,0 g,3.19 g,0.00 g,3.19 g,22.78 g,1.37 g,0 mg,63.11 g
+268,"Hummus, commercial",100 g,166,9.6 g,14.29 g,6.0 g,0 g,0 g,0 g,9.60 g,1.66 g,0 mg,66.59 g
+269,"Croissants, butter",100 g,406,21 g,45.80 g,2.6 g,11.26 g,0 g,0 g,21.00 g,1.60 g,0 mg,23.20 g
+270,"Carrot, dehydrated",100 g,341,1.5 g,79.57 g,23.6 g,38.82 g,0 g,0 g,1.49 g,6.84 g,0 mg,4.00 g
+271,"Vinegar, distilled",100 g,18,0 g,0.04 g,0 g,0.04 g,0 g,0 g,0.00 g,0.02 g,0 mg,94.78 g
+272,"Sapote, raw, mamey",100 g,124,0.5 g,32.10 g,5.4 g,20.14 g,8.01 g,0  g,0.46 g,1.12 g,0 mg,64.87 g
+273,"Soy flour, low-fat",100 g,372,8.9 g,30.63 g,16.0 g,9.33 g,0 g,0 g,8.90 g,6.04 g,0 mg,4.61 g
+274,"Syrups, sugar free",100 g,52,0 g,12.13 g,0.7 g,0.01 g,0 g,0 g,0.00 g,0.07 g,0 mg,87.00 g
+275,"Syrups, dark, corn",100 g,286,0 g,77.59 g,0 g,77.59 g,0 g,0 g,0.00 g,0.40 g,0 mg,22.01 g
+276,"Taco shells, baked",100 g,476,22 g,63.49 g,6.7 g,1.50 g,0.10 g,0.10 g,21.79 g,1.90 g,0 mg,6.40 g
+277,"Spices, cumin seed",100 g,375,22 g,44.24 g,10.5 g,2.25 g,0 g,0 g,22.27 g,7.62 g,0 mg,8.06 g
+278,"Bamboo shoots, raw",100 g,27,0.3 g,5.20 g,2.2 g,3.00 g,0 g,0 g,0.30 g,0.90 g,0 mg,91.00 g
+279,"Fish, raw, lingcod",100 g,85,1.1 g,0.00 g,0 g,0 g,0 g,0 g,1.06 g,1.21 g,0 mg,81.03 g
+280,"Whey, dried, sweet",100 g,353,1.1 g,74.46 g,0 g,74.46 g,0 g,0 g,1.07 g,8.35 g,0 mg,3.19 g
+281,"Whey, fluid, sweet",100 g,27,0.4 g,5.14 g,0 g,5.14 g,0 g,0 g,0.36 g,0.53 g,0 mg,93.12 g
+282,"Spices, poppy seed",100 g,525,42 g,28.13 g,19.5 g,2.99 g,0.37 g,0  g,41.56 g,6.37 g,0 mg,5.95 g
+283,"Babyfood, pretzels",100 g,397,2 g,82.20 g,2.3 g,3.08 g,0 g,0 g,2.00 g,1.00 g,0 mg,4.00 g
+284,"Fat, mutton tallow",100 g,902,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+285,"Coffeecake, cheese",100 g,339,15 g,44.30 g,1.0 g,0 g,0 g,0 g,15.20 g,1.20 g,0 mg,32.20 g
+286,"Sauce, horseradish",100 g,503,51 g,10.05 g,1.0 g,8.98 g,4.08 g,0  g,50.89 g,2.14 g,0 mg,35.83 g
+287,"Yardlong bean, raw",100 g,47,0.4 g,8.35 g,0 g,0 g,0 g,0 g,0.40 g,0.60 g,0 mg,87.85 g
+288,"Cress, raw, garden",100 g,32,0.7 g,5.50 g,1.1 g,4.40 g,0 g,0 g,0.70 g,1.80 g,0 mg,89.40 g
+289,"Dates, deglet noor",100 g,282,0.4 g,75.03 g,8.0 g,63.35 g,19.87 g,0  g,0.39 g,1.60 g,0 mg,20.53 g
+290,"Lambsquarters, raw",100 g,43,0.8 g,7.30 g,4.0 g,0 g,0 g,0 g,0.80 g,3.40 g,0 mg,84.30 g
+291,"Gravy, dry, turkey",100 g,367,7.2 g,65.12 g,0 g,0 g,0 g,0 g,7.19 g,12.61 g,0 mg,4.67 g
+292,Vital wheat gluten,100 g,370,1.9 g,13.79 g,0.6 g,0 g,0 g,0 g,1.85 g,1.00 g,0 mg,8.20 g
+293,"Turnip greens, raw",100 g,32,0.3 g,7.13 g,3.2 g,0.81 g,0.52 g,0 g,0.30 g,1.40 g,0 mg,89.67 g
+294,"Sugars, granulated",100 g,387,0 g,99.98 g,0 g,99.80 g,0.00 g,0  g,0.00 g,0.01 g,0 mg,0.02 g
+295,"Frankfurter, pork",100 g,269,24 g,0.28 g,0.1 g,0 g,0 g,0 g,23.68 g,3.35 g,0 mg,59.85 g
+296,"Pomegranates, raw",100 g,83,1.2 g,18.70 g,4.0 g,13.67 g,0 g,0 g,1.17 g,0.53 g,0 mg,77.93 g
+297,"Pears, raw, asian",100 g,42,0.2 g,10.65 g,3.6 g,7.05 g,0 g,0 g,0.23 g,0.37 g,0 mg,88.25 g
+298,"Cookies, molasses",100 g,430,13 g,73.80 g,1.0 g,17.60 g,0 g,0 g,12.80 g,2.00 g,0 mg,5.80 g
+299,"Cookies, fig bars",100 g,348,7.3 g,70.90 g,4.6 g,46.36 g,0 g,0 g,7.30 g,1.60 g,0 mg,16.50 g
+300,Liverwurst spread,100 g,305,25 g,5.89 g,2.5 g,1.65 g,0 g,0 g,25.45 g,2.75 g,0 mg,53.53 g
+301,Roast beef spread,100 g,223,16 g,3.73 g,0.2 g,0.71 g,0 g,0 g,16.28 g,3.02 g,0 mg,61.70 g
+302,"Chard, raw, swiss",100 g,19,0.2 g,3.74 g,1.6 g,1.10 g,0 g,0 g,0.20 g,1.60 g,0 mg,92.66 g
+303,"Goose, raw, liver",100 g,133,4.3 g,6.32 g,0 g,0 g,0 g,0 g,4.28 g,1.25 g,0 mg,71.78 g
+304,"TACO BELL, Nachos",100 g,350,22 g,34.91 g,3.2 g,2.17 g,0.00 g,1.63 g,21.50 g,1.87 g,0 mg,37.40 g
+305,"Sausage, meatless",100 g,255,18 g,8.09 g,2.8 g,0 g,0 g,0 g,18.16 g,3.07 g,0 mg,50.40 g
+306,"Frankfurter, meat",100 g,290,26 g,4.17 g,0 g,0 g,0 g,0 g,25.76 g,3.50 g,0 mg,56.31 g
+307,"Rice flour, brown",100 g,363,2.8 g,76.48 g,4.6 g,0.66 g,0 g,0 g,2.78 g,1.54 g,0 mg,11.97 g
+308,"Peppermint, fresh",100 g,70,0.9 g,14.89 g,8.0 g,0 g,0 g,0 g,0.94 g,1.76 g,0 mg,78.65 g
+309,"Vinegar, red wine",100 g,19,0 g,0.27 g,0 g,0 g,0 g,0 g,0.00 g,0.17 g,0 mg,94.47 g
+310,"Vinegar, balsamic",100 g,88,0 g,17.03 g,0 g,14.95 g,7.57 g,0  g,0.00 g,0.37 g,0 mg,76.45 g
+311,"Luxury loaf, pork",100 g,141,4.8 g,4.90 g,0 g,0 g,0 g,0 g,4.80 g,3.60 g,0 mg,68.20 g
+312,"Rye flour, medium",100 g,349,1.5 g,75.43 g,11.8 g,1.10 g,0.06 g,0  g,1.52 g,1.20 g,0 mg,10.97 g
+313,"DENNY'S, coleslaw",100 g,183,15 g,10.88 g,1.3 g,8.16 g,2.81 g,0  g,15.03 g,1.35 g,0 mg,71.77 g
+314,"Bread, wheat bran",100 g,248,3.4 g,47.80 g,4.0 g,9.68 g,0 g,0 g,3.40 g,2.20 g,0 mg,37.80 g
+315,"Croissants, apple",100 g,254,8.7 g,37.10 g,2.5 g,0 g,0 g,0 g,8.70 g,1.20 g,0 mg,45.60 g
+316,"Candies, Tamarind",100 g,368,0 g,91.96 g,2.5 g,78.57 g,0 g,0 g,0.00 g,5.52 g,0 mg,2.52 g
+317,"Oheloberries, raw",100 g,28,0.2 g,6.84 g,0 g,0 g,0 g,0 g,0.22 g,0.26 g,0 mg,92.30 g
+318,"PACE, Salsa Verde",100 g,47,1.6 g,6.25 g,0 g,6.25 g,0 g,0 g,1.56 g,4.09 g,0 mg,88.10 g
+319,Barley malt flour,100 g,361,1.8 g,78.30 g,7.1 g,0.80 g,0 g,0 g,1.84 g,1.37 g,0 mg,8.21 g
+320,"Rice noodles, dry",100 g,364,0.6 g,80.18 g,1.6 g,0.12 g,0 g,0 g,0.56 g,0.85 g,0 mg,11.91 g
+321,"Fish oil, sardine",100 g,902,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+322,"Fish oil, herring",100 g,902,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+323,"Plantains, cooked",100 g,116,0.2 g,31.15 g,2.3 g,14.00 g,0 g,0 g,0.18 g,0.58 g,0 mg,67.30 g
+324,"Burdock root, raw",100 g,72,0.2 g,17.34 g,3.3 g,2.90 g,0 g,0 g,0.15 g,0.89 g,0 mg,80.09 g
+325,"Butterbur, canned",100 g,3,0.1 g,0.38 g,0 g,0 g,0 g,0 g,0.13 g,1.46 g,0 mg,97.92 g
+326,"Ostrich, raw, fan",100 g,117,2.7 g,0.00 g,0 g,0 g,0 g,0 g,2.65 g,0.61 g,0 mg,75.93 g
+327,"SILK Nog, soymilk",100 g,74,1.6 g,12.30 g,0 g,9.84 g,0 g,0 g,1.64 g,0.65 g,0 mg,82.96 g
+328,"Gravy, dry, brown",100 g,367,9.6 g,59.38 g,2.0 g,0 g,0 g,0 g,9.61 g,15.27 g,0 mg,5.00 g
+329,"Cheese, provolone",100 g,351,27 g,2.14 g,0 g,0.56 g,0 g,0 g,26.62 g,4.71 g,0 mg,40.95 g
+330,"Cheese, roquefort",100 g,369,31 g,2.00 g,0 g,0 g,0 g,0 g,30.64 g,6.44 g,0 mg,39.38 g
+331,"Muffins, oat bran",100 g,270,7.4 g,48.30 g,4.6 g,8.22 g,0 g,0 g,7.40 g,2.30 g,0 mg,35.00 g
+332,"Syrups, grenadine",100 g,268,0 g,66.91 g,0 g,46.55 g,0 g,0 g,0.00 g,0.69 g,0 mg,32.40 g
+333,"Raisins, seedless",100 g,299,0.5 g,79.18 g,3.7 g,59.19 g,27.75 g,0  g,0.46 g,1.85 g,0 mg,15.43 g
+334,"Strawberries, raw",100 g,32,0.3 g,7.68 g,2.0 g,4.89 g,1.99 g,0  g,0.30 g,0.40 g,0 mg,90.95 g
+335,"Fish, raw, burbot",100 g,90,0.8 g,0.00 g,0 g,0 g,0 g,0 g,0.81 g,1.16 g,0 mg,79.26 g
+336,"Wheat germ, crude",100 g,360,9.7 g,51.80 g,13.2 g,0 g,0 g,0 g,9.72 g,4.21 g,0 mg,11.12 g
+337,"Wheat, hard white",100 g,342,1.7 g,75.90 g,12.2 g,0.41 g,0 g,0 g,1.71 g,1.52 g,0 mg,9.57 g
+338,"Wheat bran, crude",100 g,216,4.3 g,64.51 g,42.8 g,0.41 g,0 g,0 g,4.25 g,5.79 g,0 mg,9.89 g
+339,"Gooseberries, raw",100 g,44,0.6 g,10.18 g,4.3 g,0 g,0 g,0 g,0.58 g,0.49 g,0 mg,87.87 g
+340,"Spices, dill seed",100 g,305,15 g,55.17 g,21.1 g,0 g,0 g,0 g,14.54 g,6.62 g,0 mg,7.70 g
+341,"Oil, cocoa butter",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+342,"APPLEBEE'S, chili",100 g,157,9.8 g,4.57 g,1.4 g,2.27 g,1.07 g,0  g,9.79 g,1.76 g,0 mg,71.31 g
+343,"Grape leaves, raw",100 g,93,2.1 g,17.31 g,11.0 g,6.30 g,0 g,0 g,2.12 g,1.65 g,0 mg,73.32 g
+344,"Kale, raw, scotch",100 g,42,0.6 g,8.32 g,1.7 g,0 g,0 g,0 g,0.60 g,1.28 g,0 mg,87.00 g
+345,"Marmalade, orange",100 g,246,0 g,66.30 g,0.7 g,60 g,0 g,0 g,0.00 g,0.20 g,0 mg,33.20 g
+346,"Whey, dried, acid",100 g,339,0.5 g,73.45 g,0 g,73.45 g,0 g,0 g,0.54 g,10.77 g,0 mg,3.51 g
+347,"Whey, fluid, acid",100 g,24,0.1 g,5.12 g,0 g,5.12 g,0 g,0 g,0.09 g,0.61 g,0 mg,93.42 g
+348,"Eggplant, pickled",100 g,49,0.7 g,9.77 g,2.5 g,4.80 g,0 g,0 g,0.70 g,1.73 g,0 mg,86.90 g
+349,"Babyfood, cookies",100 g,433,13 g,67.10 g,0.2 g,24.20 g,0 g,0 g,13.20 g,2.00 g,0 mg,5.90 g
+350,"Fennel, raw, bulb",100 g,31,0.2 g,7.30 g,3.1 g,3.93 g,0 g,0 g,0.20 g,1.05 g,0 mg,90.21 g
+351,"Egg, dried, whole",100 g,592,44 g,1.13 g,0 g,0.56 g,0.56 g,0  g,43.90 g,4.13 g,0 mg,2.78 g
+352,"Coffeecake, fruit",100 g,311,10 g,51.50 g,2.5 g,0 g,0 g,0 g,10.20 g,1.20 g,0 mg,31.70 g
+353,"Candies, caramels",100 g,382,8.1 g,77.00 g,0 g,65.50 g,0 g,0 g,8.10 g,1.80 g,0 mg,8.50 g
+354,"Sour cream, light",100 g,136,11 g,7.10 g,0 g,0.22 g,0 g,0 g,10.60 g,0.70 g,0 mg,78.10 g
+355,"Egg, dried, white",100 g,382,0 g,7.80 g,0 g,5.40 g,0 g,0 g,0.00 g,5.30 g,0 mg,5.80 g
+356,"Wild rice, cooked",100 g,101,0.3 g,21.34 g,1.8 g,0.73 g,0.20 g,0 g,0.34 g,0.40 g,0 mg,73.93 g
+357,"Chicken, meatless",100 g,224,13 g,3.64 g,3.6 g,0 g,0 g,0 g,12.73 g,1.15 g,0 mg,58.84 g
+358,"Corn grain, white",100 g,365,4.7 g,74.26 g,0 g,0 g,0 g,0 g,4.74 g,1.20 g,0 mg,10.37 g
+359,"Veal, raw, ground",100 g,197,13 g,0.00 g,0 g,0 g,0 g,0 g,13.06 g,0.93 g,0 mg,66.16 g
+360,"Wheat, soft white",100 g,340,2 g,75.36 g,12.7 g,0.41 g,0 g,0 g,1.99 g,1.54 g,0 mg,10.42 g
+361,"Elderberries, raw",100 g,73,0.5 g,18.40 g,7.0 g,0 g,0 g,0 g,0.50 g,0.64 g,0 mg,79.80 g
+362,"Nuts, raw, acorns",100 g,387,24 g,40.75 g,0 g,0 g,0 g,0 g,23.86 g,1.35 g,0 mg,27.90 g
+363,"Orange juice, raw",100 g,45,0.2 g,10.40 g,0.2 g,8.40 g,0 g,0 g,0.20 g,0.40 g,0 mg,88.30 g
+364,"POPEYES, Coleslaw",100 g,161,11 g,14.12 g,1.7 g,10.83 g,1.65 g,0  g,11.18 g,0.87 g,0 mg,72.84 g
+365,"Cabbage, raw, red",100 g,31,0.2 g,7.37 g,2.1 g,3.83 g,1.74 g,0  g,0.16 g,0.64 g,0 mg,90.39 g
+366,"Blackberries, raw",100 g,43,0.5 g,9.61 g,5.3 g,4.88 g,2.31 g,0  g,0.49 g,0.37 g,0 mg,88.15 g
+367,"Wasabi, raw, root",100 g,109,0.6 g,23.54 g,7.8 g,0 g,0 g,0 g,0.63 g,1.92 g,0 mg,69.11 g
+368,"Cheese, limburger",100 g,327,27 g,0.49 g,0 g,0.49 g,0 g,0 g,27.25 g,3.79 g,0 mg,48.42 g
+369,"Raspberries, raw",100 g,52,0.7 g,11.94 g,6.5 g,4.42 g,1.86 g,0  g,0.65 g,0.46 g,0 mg,85.75 g
+370,"Corn bran, crude",100 g,224,0.9 g,85.64 g,79.0 g,0 g,0 g,0 g,0.92 g,0.36 g,0 mg,4.71 g
+371,"Bread, rice bran",100 g,243,4.6 g,43.50 g,4.9 g,4.67 g,0 g,0 g,4.60 g,2.00 g,0 mg,41.00 g
+372,"Taro shoots, raw",100 g,11,0.1 g,2.32 g,0 g,0 g,0 g,0 g,0.09 g,0.85 g,0 mg,95.82 g
+373,"Sugars, powdered",100 g,389,0 g,99.77 g,0 g,97.81 g,0.00 g,0  g,0.00 g,0.01 g,0 mg,0.23 g
+374,"Emu, raw, ground",100 g,134,4 g,0.00 g,0 g,0 g,0 g,0 g,4.03 g,1.00 g,0 mg,72.87 g
+375,"Spices, paprika",100 g,282,13 g,53.99 g,34.9 g,10.34 g,2.63 g,0  g,12.89 g,7.74 g,0 mg,11.24 g
+376,"Nectarines, raw",100 g,44,0.3 g,10.55 g,1.7 g,7.89 g,1.57 g,0  g,0.32 g,0.48 g,0 mg,87.59 g
+377,"Mulberries, raw",100 g,43,0.4 g,9.80 g,1.7 g,8.10 g,0 g,0 g,0.39 g,0.69 g,0 mg,87.68 g
+378,"Lotus root, raw",100 g,74,0.1 g,17.23 g,4.9 g,0 g,0 g,0 g,0.10 g,0.97 g,0 mg,79.10 g
+379,"Sauce, barbecue",100 g,172,0.6 g,40.77 g,0.9 g,33.24 g,16.39 g,0  g,0.63 g,3.07 g,0 mg,54.71 g
+380,"Fish, raw, spot",100 g,123,4.9 g,0.00 g,0 g,0 g,0 g,0 g,4.90 g,1.06 g,0 mg,75.95 g
+381,"Crabapples, raw",100 g,76,0.3 g,19.95 g,0 g,0 g,0 g,0 g,0.30 g,0.42 g,0 mg,78.94 g
+382,"Breadfruit, raw",100 g,103,0.2 g,27.12 g,4.9 g,11.00 g,0 g,0 g,0.23 g,0.93 g,0 mg,70.65 g
+383,Arrowroot flour,100 g,357,0.1 g,88.15 g,3.4 g,0 g,0 g,0 g,0.10 g,0.08 g,0 mg,11.37 g
+384,"Pimento, canned",100 g,23,0.3 g,5.10 g,1.9 g,2.71 g,0 g,0 g,0.30 g,0.40 g,0 mg,93.10 g
+385,"Tomatillos, raw",100 g,32,1 g,5.84 g,1.9 g,3.93 g,0 g,0 g,1.02 g,0.55 g,0 mg,91.63 g
+386,"Raisins, seeded",100 g,296,0.5 g,78.47 g,6.8 g,0 g,0 g,0 g,0.54 g,1.89 g,0 mg,16.57 g
+387,"Bologna, turkey",100 g,209,16 g,4.68 g,0.5 g,2.90 g,0 g,0 g,16.05 g,3.30 g,0 mg,64.55 g
+388,Vanilla extract,100 g,288,0.1 g,12.65 g,0 g,12.65 g,0 g,0 g,0.06 g,0.26 g,0 mg,52.58 g
+389,"Fish, raw, carp",100 g,127,5.6 g,0.00 g,0 g,0 g,0 g,0 g,5.60 g,1.46 g,0 mg,76.31 g
+390,"Wheat, sprouted",100 g,198,1.3 g,42.53 g,1.1 g,0 g,0 g,0 g,1.27 g,0.96 g,0 mg,47.75 g
+391,"Fish, raw, cusk",100 g,87,0.7 g,0.00 g,0 g,0 g,0 g,0 g,0.69 g,1.25 g,0 mg,76.35 g
+392,"Watercress, raw",100 g,11,0.1 g,1.29 g,0.5 g,0.20 g,0 g,0 g,0.10 g,1.20 g,0 mg,95.11 g
+393,"Fish, raw, ling",100 g,87,0.6 g,0.00 g,0 g,0 g,0 g,0 g,0.64 g,1.40 g,0 mg,79.63 g
+394,"Bread, cinnamon",100 g,253,5.3 g,44.38 g,3.5 g,14.11 g,0 g,0 g,5.29 g,1.34 g,0 mg,41.93 g
+395,"Spices, saffron",100 g,310,5.9 g,65.37 g,3.9 g,0 g,0 g,0 g,5.85 g,5.45 g,0 mg,11.90 g
+396,"Lime juice, raw",100 g,25,0.1 g,8.42 g,0.4 g,1.69 g,0.60 g,0  g,0.07 g,0.31 g,0 mg,90.79 g
+397,"Spelt, uncooked",100 g,338,2.4 g,70.19 g,10.7 g,6.82 g,0.84 g,0  g,2.43 g,1.78 g,0 mg,11.02 g
+398,"Cabbage, kimchi",100 g,15,0.5 g,2.40 g,1.6 g,1.06 g,0 g,0 g,0.50 g,1.70 g,0 mg,94.30 g
+399,"Seeds, flaxseed",100 g,534,42 g,28.88 g,27.3 g,1.55 g,0.40 g,0  g,42.16 g,3.72 g,0 mg,6.96 g
+400,"Parsnips, raw",100 g,75,0.3 g,17.99 g,4.9 g,4.80 g,0 g,0 g,0.30 g,0.98 g,0 mg,79.53 g
+401,"Sugars, maple",100 g,354,0.2 g,90.90 g,0 g,84.87 g,0 g,0 g,0.20 g,0.80 g,0 mg,8.00 g
+402,"Collards, raw",100 g,32,0.6 g,5.42 g,4.0 g,0.46 g,0 g,0 g,0.61 g,1.32 g,0 mg,89.62 g
+403,Rice crackers,100 g,416,5 g,82.64 g,0 g,0 g,0 g,0 g,5.00 g,2.24 g,0 mg,0.11 g
+404,"Cheese, colby",100 g,394,32 g,2.57 g,0 g,0.52 g,0 g,0 g,32.11 g,3.36 g,0 mg,38.20 g
+405,"Cheese, cream",100 g,350,34 g,5.52 g,0 g,3.76 g,0.00 g,3.76 g,34.44 g,1.27 g,0 mg,52.62 g
+406,"Bologna, pork",100 g,247,20 g,0.73 g,0 g,0 g,0 g,0 g,19.87 g,3.50 g,0 mg,60.60 g
+407,"Celeriac, raw",100 g,42,0.3 g,9.20 g,1.8 g,1.60 g,0 g,0 g,0.30 g,1.00 g,0 mg,88.00 g
+408,"Kumquats, raw",100 g,71,0.9 g,15.90 g,6.5 g,9.36 g,0 g,0 g,0.86 g,0.52 g,0 mg,80.85 g
+409,"Oat bran, raw",100 g,246,7 g,66.22 g,15.4 g,1.45 g,0 g,0 g,7.03 g,2.89 g,0 mg,6.55 g
+410,"Spelt, cooked",100 g,127,0.9 g,26.44 g,3.9 g,0 g,0 g,0 g,0.85 g,0.65 g,0 mg,66.56 g
+411,"Bread, cheese",100 g,408,21 g,44.83 g,2.1 g,2.08 g,0 g,0 g,20.83 g,2.79 g,0 mg,21.13 g
+412,"Bread, potato",100 g,266,3.1 g,47.07 g,6.3 g,9.38 g,0 g,0 g,3.13 g,3.76 g,0 mg,33.55 g
+413,"Kohlrabi, raw",100 g,27,0.1 g,6.20 g,3.6 g,2.60 g,0 g,0 g,0.10 g,1.00 g,0 mg,91.00 g
+414,"Cheese, swiss",100 g,393,31 g,1.44 g,0 g,0 g,0.00 g,0  g,30.99 g,2.97 g,0 mg,37.63 g
+415,"Cheese, gouda",100 g,356,27 g,2.22 g,0 g,2.22 g,0 g,0 g,27.44 g,3.94 g,0 mg,41.46 g
+416,Tomato powder,100 g,302,0.4 g,74.68 g,16.5 g,43.90 g,0 g,0 g,0.44 g,8.91 g,0 mg,3.06 g
+417,"Cheese, blue",100 g,353,29 g,2.34 g,0 g,0.50 g,0 g,0 g,28.74 g,5.11 g,0 mg,42.41 g
+418,"Cheese, brie",100 g,334,28 g,0.45 g,0 g,0.45 g,0 g,0 g,27.68 g,2.70 g,0 mg,48.42 g
+419,"Celtuce, raw",100 g,18,0.3 g,3.65 g,1.7 g,0 g,0 g,0 g,0.30 g,0.70 g,0 mg,94.50 g
+420,"Thyme, fresh",100 g,101,1.7 g,24.45 g,14.0 g,0 g,0 g,0 g,1.68 g,3.20 g,0 mg,65.11 g
+421,"Basil, fresh",100 g,23,0.6 g,2.65 g,1.6 g,0.30 g,0.02 g,0  g,0.64 g,1.49 g,0 mg,92.06 g
+422,"Rhubarb, raw",100 g,21,0.2 g,4.54 g,1.8 g,1.10 g,0 g,0 g,0.20 g,0.76 g,0 mg,93.61 g
+423,"Nopales, raw",100 g,16,0.1 g,3.33 g,2.2 g,1.15 g,0 g,0 g,0.09 g,1.14 g,0 mg,94.12 g
+424,"Syrups, malt",100 g,318,0 g,71.30 g,0 g,71.30 g,0 g,0 g,0.00 g,1.30 g,0 mg,21.10 g
+425,"Oil, teaseed",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+426,"Oil, sheanut",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+427,"Oil, babassu",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+428,"Longans, raw",100 g,60,0.1 g,15.14 g,1.1 g,0 g,0 g,0 g,0.10 g,0.70 g,0 mg,82.75 g
+429,"Loquats, raw",100 g,47,0.2 g,12.14 g,1.7 g,0 g,0 g,0 g,0.20 g,0.50 g,0 mg,86.73 g
+430,"Epazote, raw",100 g,32,0.5 g,7.44 g,3.8 g,0 g,0 g,0 g,0.52 g,2.50 g,0 mg,89.21 g
+431,"Pumpkin, raw",100 g,26,0.1 g,6.50 g,0.5 g,2.76 g,0 g,0 g,0.10 g,0.80 g,0 mg,91.60 g
+432,"Carrots, raw",100 g,41,0.2 g,9.58 g,2.8 g,4.74 g,0.59 g,0  g,0.24 g,0.97 g,0 mg,88.29 g
+433,"Fish, surimi",100 g,99,0.9 g,6.85 g,0 g,0 g,0 g,0 g,0.90 g,0.72 g,0 mg,76.34 g
+434,"Cabbage, raw",100 g,25,0.1 g,5.80 g,2.5 g,3.20 g,1.67 g,0  g,0.10 g,0.64 g,0 mg,92.18 g
+435,"Cardoon, raw",100 g,17,0.1 g,4.07 g,1.6 g,0 g,0 g,0 g,0.10 g,1.13 g,0 mg,94.00 g
+436,"Abiyuch, raw",100 g,69,0.1 g,17.60 g,5.3 g,8.55 g,4.50 g,0  g,0.10 g,0.90 g,0 mg,79.90 g
+437,"Bread, wheat",100 g,267,3.2 g,48.68 g,4.0 g,5.91 g,1.78 g,0  g,3.24 g,2.16 g,0 mg,35.20 g
+438,"Cheese, edam",100 g,357,28 g,1.43 g,0 g,1.43 g,0 g,0 g,27.80 g,4.22 g,0 mg,41.56 g
+439,"Cheese, feta",100 g,264,21 g,4.09 g,0 g,4.09 g,0 g,0 g,21.28 g,5.20 g,0 mg,55.22 g
+440,"Pummelo, raw",100 g,38,0 g,9.62 g,1.0 g,0 g,0 g,0 g,0.04 g,0.48 g,0 mg,89.10 g
+441,"Quinces, raw",100 g,57,0.1 g,15.30 g,1.9 g,0 g,0 g,0 g,0.10 g,0.40 g,0 mg,83.80 g
+442,Cracker meal,100 g,383,1.7 g,80.90 g,2.6 g,0.33 g,0 g,0 g,1.70 g,0.60 g,0 mg,7.60 g
+443,"Roselle, raw",100 g,49,0.6 g,11.31 g,0 g,0 g,0 g,0 g,0.64 g,0.51 g,0 mg,86.58 g
+444,"Soursop, raw",100 g,66,0.3 g,16.84 g,3.3 g,13.54 g,0 g,0 g,0.30 g,0.70 g,0 mg,81.16 g
+445,"Oil, coconut",100 g,892,99 g,0.00 g,0 g,0 g,0 g,0 g,99.06 g,0.03 g,0 mg,0.03 g
+446,"Wheat, durum",100 g,339,2.5 g,71.13 g,0 g,0 g,0 g,0 g,2.47 g,1.78 g,0 mg,10.94 g
+447,"KFC, biscuit",100 g,358,17 g,43.55 g,2.0 g,4.04 g,0.00 g,1.67 g,17.05 g,3.50 g,0 mg,28.40 g
+448,Millet flour,100 g,382,4.3 g,75.12 g,3.5 g,1.66 g,1.26 g,0  g,4.25 g,1.21 g,0 mg,8.67 g
+449,"Arugula, raw",100 g,25,0.7 g,3.65 g,1.6 g,2.05 g,0 g,0 g,0.66 g,1.40 g,0 mg,91.71 g
+450,Potato flour,100 g,357,0.3 g,83.10 g,5.9 g,3.52 g,0 g,0 g,0.34 g,3.14 g,0 mg,6.52 g
+451,"Litchis, raw",100 g,66,0.4 g,16.53 g,1.3 g,15.23 g,0 g,0 g,0.44 g,0.44 g,0 mg,81.76 g
+452,"Teff, cooked",100 g,101,0.7 g,19.86 g,2.8 g,0 g,0 g,0 g,0.65 g,0.69 g,0 mg,74.93 g
+453,"Spinach, raw",100 g,23,0.4 g,3.63 g,2.2 g,0.42 g,0.11 g,0  g,0.39 g,1.72 g,0 mg,91.40 g
+454,"Oil, mustard",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+455,"Oil, avocado",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+456,Phyllo dough,100 g,299,6 g,52.60 g,1.9 g,0.18 g,0 g,0 g,6.00 g,1.60 g,0 mg,32.60 g
+457,"Lentils, raw",100 g,352,1.1 g,63.35 g,10.7 g,2.03 g,0.00 g,0  g,1.06 g,2.71 g,0 mg,8.26 g
+458,"Fat, chicken",100 g,900,100 g,0.00 g,0 g,0 g,0 g,0 g,99.80 g,0.00 g,0 mg,0.20 g
+459,"Cassava, raw",100 g,160,0.3 g,38.06 g,1.8 g,1.70 g,0 g,0 g,0.28 g,0.62 g,0 mg,59.68 g
+460,"Turnips, raw",100 g,28,0.1 g,6.43 g,1.8 g,3.80 g,0 g,0 g,0.10 g,0.70 g,0 mg,91.87 g
+461,"Bananas, raw",100 g,89,0.3 g,22.84 g,2.6 g,12.23 g,4.98 g,0  g,0.33 g,0.82 g,0 mg,74.91 g
+462,"Papayas, raw",100 g,43,0.3 g,10.82 g,1.7 g,7.82 g,4.09 g,0  g,0.26 g,0.39 g,0 mg,88.06 g
+463,Fruit syrup,100 g,341,0 g,85.13 g,0.1 g,53.00 g,0 g,0 g,0.00 g,0.13 g,0 mg,14.74 g
+464,"Chives, raw",100 g,30,0.7 g,4.35 g,2.5 g,1.85 g,0 g,0 g,0.73 g,1.00 g,0 mg,90.65 g
+465,Carob flour,100 g,222,0.7 g,88.88 g,39.8 g,49.08 g,0 g,0 g,0.65 g,2.27 g,0 mg,3.58 g
+466,Prune puree,100 g,257,0.2 g,65.10 g,3.3 g,39.00 g,22.27 g,0 g,0.20 g,2.60 g,0 mg,30.00 g
+467,"Salt, table",100 g,0,0 g,0.00 g,0 g,0 g,0 g,0 g,0.00 g,99.80 g,0 mg,0.20 g
+468,Chewing gum,100 g,360,0.3 g,96.70 g,2.4 g,66.08 g,0 g,0 g,0.30 g,0.40 g,0 mg,2.60 g
+469,"Fat, turkey",100 g,900,100 g,0.00 g,0 g,0 g,0 g,0 g,99.80 g,0.00 g,0 mg,0.20 g
+470,"Tofu, fried",100 g,270,20 g,8.86 g,3.9 g,2.72 g,0 g,0 g,20.18 g,1.62 g,0 mg,50.52 g
+471,"Borage, raw",100 g,21,0.7 g,3.06 g,0 g,0 g,0 g,0 g,0.70 g,1.44 g,0 mg,93.00 g
+472,"Mangos, raw",100 g,60,0.4 g,14.98 g,1.6 g,13.66 g,2.01 g,0  g,0.38 g,0.36 g,0 mg,83.46 g
+473,"Garlic, raw",100 g,149,0.5 g,33.06 g,2.1 g,1.00 g,0 g,0 g,0.50 g,1.50 g,0 mg,58.58 g
+474,"Endive, raw",100 g,17,0.2 g,3.35 g,3.1 g,0.25 g,0 g,0 g,0.20 g,1.41 g,0 mg,93.79 g
+475,Tofu yogurt,100 g,94,1.8 g,15.96 g,0.2 g,1.24 g,0 g,0 g,1.80 g,1.24 g,0 mg,77.50 g
+476,"Celery, raw",100 g,16,0.2 g,2.97 g,1.6 g,1.34 g,0.40 g,0  g,0.17 g,0.75 g,0 mg,95.43 g
+477,"Bagels, egg",100 g,278,2.1 g,53.00 g,2.3 g,0 g,0 g,0 g,2.10 g,1.60 g,0 mg,32.70 g
+478,"Bulgur, dry",100 g,342,1.3 g,75.87 g,12.5 g,0.41 g,0 g,0 g,1.33 g,1.51 g,0 mg,9.00 g
+479,"Feijoa, raw",100 g,61,0.4 g,15.21 g,6.4 g,8.20 g,2.32 g,0  g,0.42 g,0.38 g,0 mg,83.28 g
+480,"Millet, raw",100 g,378,4.2 g,72.85 g,8.5 g,0 g,0 g,0 g,4.22 g,3.25 g,0 mg,8.67 g
+481,"Ham, minced",100 g,263,21 g,1.84 g,0 g,0 g,0 g,0 g,20.68 g,3.85 g,0 mg,57.35 g
+482,"Oil, almond",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+483,"Oil, walnut",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+484,"Jujube, raw",100 g,79,0.2 g,20.23 g,0 g,0 g,0 g,0 g,0.20 g,0.51 g,0 mg,77.86 g
+485,"Oil, canola",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+486,"Syrup, Cane",100 g,269,0 g,73.14 g,0 g,73.20 g,0 g,0 g,0.00 g,0.86 g,0 mg,26.00 g
+487,"Onions, raw",100 g,40,0.1 g,9.34 g,1.7 g,4.24 g,1.97 g,0  g,0.10 g,0.35 g,0 mg,89.11 g
+488,Clif Z bar,100 g,409,9.7 g,74.72 g,8.3 g,30.56 g,0 g,0 g,9.72 g,2.26 g,1.00 mg,7.74 g
+489,Fish broth,100 g,16,0.6 g,0.40 g,0 g,0.09 g,0 g,0 g,0.60 g,0.97 g,0 mg,96.00 g
+490,"Fat, goose",100 g,900,100 g,0.00 g,0 g,0 g,0 g,0 g,99.80 g,0.00 g,0 mg,0.20 g
+491,"Bread, rye",100 g,259,3.3 g,48.30 g,5.8 g,3.85 g,0 g,0 g,3.30 g,2.50 g,0 mg,37.30 g
+492,"Eppaw, raw",100 g,150,1.8 g,31.68 g,0 g,0 g,0 g,0 g,1.80 g,1.92 g,0 mg,60.00 g
+493,"Limes, raw",100 g,30,0.2 g,10.54 g,2.8 g,1.69 g,0 g,0 g,0.20 g,0.30 g,0 mg,88.26 g
+494,"Pie, peach",100 g,224,10 g,32.90 g,0.8 g,16.23 g,0 g,0 g,10.00 g,0.80 g,0 mg,54.40 g
+495,"Pears, raw",100 g,57,0.1 g,15.23 g,3.1 g,9.75 g,2.60 g,0  g,0.14 g,0.32 g,0 mg,83.96 g
+496,"Plums, raw",100 g,46,0.3 g,11.42 g,1.4 g,9.92 g,5.07 g,0  g,0.28 g,0.37 g,0 mg,87.23 g
+497,"Rowal, raw",100 g,111,2 g,23.90 g,6.2 g,14.10 g,1.10 g,0  g,2.00 g,0.40 g,0 mg,71.40 g
+498,"Beets, raw",100 g,43,0.2 g,9.56 g,2.8 g,6.76 g,0 g,0 g,0.17 g,1.08 g,0 mg,87.58 g
+499,"Bread, egg",100 g,287,6 g,47.80 g,2.3 g,1.78 g,0 g,0 g,6.00 g,1.80 g,0 mg,34.70 g
+500,Buckwheat,100 g,343,3.4 g,71.50 g,10 g,0 g,0 g,0 g,3.40 g,2.10 g,0 mg,9.75 g
+501,"Oil, palm",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+502,"Fat, duck",100 g,882,100 g,0.00 g,0 g,0 g,0 g,0 g,99.80 g,0.00 g,0 mg,0.20 g
+503,Triticale,100 g,336,2.1 g,72.13 g,0 g,0 g,0 g,0 g,2.09 g,2.23 g,0 mg,10.51 g
+504,Rye grain,100 g,338,1.6 g,75.86 g,15.1 g,0.98 g,0.16 g,0  g,1.63 g,1.57 g,0 mg,10.60 g
+505,"Dock, raw",100 g,22,0.7 g,3.20 g,2.9 g,0 g,0 g,0 g,0.70 g,1.10 g,0 mg,93.00 g
+506,"Kale, raw",100 g,49,0.9 g,8.75 g,3.6 g,2.26 g,0 g,0 g,0.93 g,2.01 g,0 mg,84.04 g
+507,"Okra, raw",100 g,33,0.2 g,7.45 g,3.2 g,1.48 g,0.32 g,0  g,0.19 g,0.86 g,0 mg,89.58 g
+508,"Taro, raw",100 g,112,0.2 g,26.46 g,4.1 g,0.40 g,0 g,0 g,0.20 g,1.20 g,0 mg,70.64 g
+509,"Figs, raw",100 g,74,0.3 g,19.18 g,2.9 g,16.26 g,0 g,0 g,0.30 g,0.66 g,0 mg,79.11 g
+510,"Goat, raw",100 g,109,2.3 g,0.00 g,0 g,0 g,0 g,0 g,2.31 g,1.11 g,0 mg,75.84 g
+511,Molasses,100 g,290,0.1 g,74.73 g,0 g,74.72 g,11.92 g,0 g,0.10 g,3.30 g,0 mg,21.87 g
+512,Zwieback,100 g,426,9.7 g,74.20 g,2.5 g,12.50 g,0 g,0 g,9.70 g,1.50 g,0 mg,4.50 g
+513,"Yam, raw",100 g,118,0.2 g,27.88 g,4.1 g,0.50 g,0 g,0 g,0.17 g,0.82 g,0 mg,69.60 g
+514,"Oil, oat",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+515,Jellies,100 g,266,0 g,69.95 g,1.0 g,51.22 g,0 g,0 g,0.02 g,0.12 g,0 mg,29.77 g
+516,Eggnog,100 g,88,4.2 g,8.05 g,0 g,8.05 g,0.07 g,7.84 g,4.19 g,0.67 g,0 mg,82.54 g
+517,Catsup,100 g,101,0.1 g,27.40 g,0.3 g,21.27 g,10.25 g,0  g,0.10 g,2.94 g,0 mg,68.51 g
+518,Tempeh,100 g,192,11 g,7.64 g,0 g,0 g,0 g,0 g,10.80 g,1.62 g,0 mg,59.65 g
+519,Wasabi,100 g,292,11 g,46.13 g,6.1 g,13.20 g,2.50 g,0  g,10.90 g,9.04 g,0 mg,31.70 g
+520,Honey,100 g,304,0 g,82.40 g,0.2 g,82.12 g,35.75 g,0 g,0.00 g,0.20 g,0 mg,17.10 g
+521,Natto,100 g,211,11 g,12.68 g,5.4 g,4.89 g,0 g,0 g,11.00 g,1.90 g,0 mg,55.02 g
+522,Okara,100 g,76,1.7 g,12.23 g,0 g,0 g,0 g,0 g,1.73 g,0.88 g,0 mg,81.64 g
+523,Papad,100 g,371,3.3 g,59.87 g,18.6 g,0 g,0 g,0 g,3.25 g,7.82 g,0 mg,3.49 g
+524,Lard,100 g,902,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+525,Oats,100 g,389,6.9 g,66.27 g,10.6 g,0 g,0 g,0 g,6.90 g,1.72 g,0 mg,8.22 g
+526,Miso,100 g,198,6 g,25.37 g,5.4 g,6.20 g,0.00 g,0  g,6.01 g,12.81 g,0 mg,43.02 g
+527,Poi,100 g,112,0.1 g,27.23 g,0.4 g,0.39 g,0 g,0 g,0.14 g,0.61 g,0 mg,71.64 g
+528,"Spices, dried, oregano",100 g,265,4.3 g,68.92 g,42.5 g,4.09 g,1.90 g,0  g,4.28 g,7.87 g,0 mg,9.93 g
+529,"Winged bean leaves, raw",100 g,74,1.1 g,14.10 g,0 g,0 g,0 g,0 g,1.10 g,2.10 g,0 mg,76.85 g
+530,"Corn, raw, white, sweet",100 g,86,1.2 g,19.02 g,2.7 g,3.22 g,0 g,0 g,1.18 g,0.62 g,0 mg,75.96 g
+531,"Wheat flour, whole-grain",100 g,340,2.5 g,71.97 g,10.7 g,0.41 g,0.00 g,0 g,2.50 g,1.58 g,0 mg,10.74 g
+532,"CRACKER BARREL, coleslaw",100 g,175,13 g,13.01 g,1.6 g,11.07 g,5.16 g,0  g,13.22 g,0.70 g,0 mg,72.18 g
+533,"Fish, raw, king, mackerel",100 g,105,2 g,0.00 g,0 g,0 g,0 g,0 g,2.00 g,1.28 g,0 mg,75.85 g
+534,"Cookies, chocolate wafers",100 g,433,14 g,72.70 g,3.4 g,37.43 g,0 g,0 g,14.20 g,2.00 g,10 mg,4.50 g
+535,"Mushrooms, raw, portabella",100 g,22,0.4 g,3.87 g,1.3 g,2.50 g,2.01 g,0  g,0.35 g,0.85 g,0 mg,92.82 g
+536,"Fish, raw, striped, mullet",100 g,117,3.8 g,0.00 g,0 g,0 g,0 g,0 g,3.79 g,1.20 g,0 mg,77.01 g
+537,"Egg, poached, cooked, whole",100 g,143,9.5 g,0.71 g,0 g,0.37 g,0.37 g,0  g,9.47 g,1.46 g,0 mg,75.85 g
+538,"Noodles, chow mein, chinese",100 g,475,15 g,72.80 g,3.7 g,5.71 g,0 g,0 g,15.43 g,2.60 g,0 mg,1.18 g
+539,"Oil, cold pressed, flaxseed",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,99.98 g,0.00 g,0 mg,0.12 g
+540,"Triticale flour, whole-grain",100 g,338,1.8 g,73.14 g,14.6 g,0 g,0 g,0 g,1.81 g,1.85 g,0 mg,10.01 g
+541,"Cheese, queso anejo, mexican",100 g,373,30 g,4.63 g,0 g,4.63 g,0 g,0 g,29.98 g,5.89 g,0 mg,38.06 g
+542,"Smelt, dried (Alaska Native)",100 g,386,18 g,0.00 g,0 g,0 g,0.00 g,0  g,17.90 g,8.25 g,0 mg,16.92 g
+543,"Lamb, broiled, cooked, ground",100 g,283,20 g,0.00 g,0 g,0 g,0 g,0 g,19.65 g,1.14 g,0 mg,55.09 g
+544,"Tofu, dried-frozen (koyadofu)",100 g,477,30 g,10.03 g,7.2 g,0 g,0 g,0 g,30.34 g,1.38 g,0 mg,5.78 g
+545,Poultry salad sandwich spread,100 g,200,14 g,7.41 g,0 g,0 g,0 g,0 g,13.52 g,1.26 g,0 mg,66.17 g
+546,"Salami, beef and pork, cooked",100 g,336,26 g,2.40 g,0 g,0.96 g,0.52 g,0  g,25.90 g,4.66 g,0 mg,45.19 g
+547,"Rice flour, unenriched, white",100 g,366,1.4 g,80.13 g,2.4 g,0.12 g,0 g,0 g,1.42 g,0.61 g,0 mg,11.89 g
+548,"Yogurt, nonfat, fruit variety",100 g,95,0.2 g,19.00 g,0 g,19.00 g,0 g,0 g,0.20 g,1.00 g,0 mg,75.40 g
+549,"Babyfood, vegetable, crackers",100 g,477,20 g,66.85 g,4.0 g,13.00 g,0 g,0 g,19.60 g,3.15 g,0 mg,2.00 g
+550,"Babyfood, fruit, baby, cookie",100 g,435,13 g,73.70 g,3.4 g,24.20 g,0 g,0 g,12.60 g,1.20 g,0 mg,5.70 g
+551,"Chicken, raw, giblets, capons",100 g,130,5.2 g,1.42 g,0 g,0 g,0 g,0 g,5.18 g,1.00 g,0 mg,74.12 g
+552,"Fish, raw, mixed species, roe",100 g,143,6.4 g,1.50 g,0 g,0 g,0 g,0 g,6.42 g,1.37 g,0 mg,67.73 g
+553,"Fish, smoked, chinook, salmon",100 g,117,4.3 g,0.00 g,0 g,0 g,0 g,0 g,4.32 g,2.62 g,0 mg,72.00 g
+554,HOUSE FOODS Premium Firm Tofu,100 g,85,4.2 g,0.97 g,0.9 g,0.40 g,0 g,0 g,4.19 g,1.05 g,0 mg,82.87 g
+555,"Crackers, whole grain, cheese",100 g,412,16 g,57.29 g,6.4 g,0 g,0 g,0 g,16.03 g,2.79 g,0 mg,14.26 g
+556,"Seeds, high-fat, sesame flour",100 g,526,37 g,26.62 g,0 g,0 g,0 g,0 g,37.10 g,4.60 g,0 mg,0.90 g
+557,"Peppers, canned, green, chili",100 g,21,0.3 g,4.60 g,1.7 g,0 g,0 g,0 g,0.27 g,1.31 g,0 mg,93.25 g
+558,"Egg, raw, fresh, whole, quail",100 g,158,11 g,0.41 g,0 g,0.40 g,0 g,0 g,11.09 g,1.10 g,0 mg,74.35 g
+559,"Pumpkin, without salt, canned",100 g,34,0.3 g,8.09 g,2.9 g,3.30 g,0 g,0 g,0.28 g,0.56 g,0 mg,89.97 g
+560,"Dove, cooked (includes squab)",100 g,213,13 g,0.00 g,0 g,0 g,0 g,0 g,13.00 g,1.10 g,0 mg,62.00 g
+561,"Beverages, orange, carbonated",100 g,48,0 g,12.30 g,0 g,0 g,0 g,0 g,0.00 g,0.10 g,0 mg,87.60 g
+562,"Kefir, LIFEWAY, plain, lowfat",100 g,41,0.9 g,4.48 g,0 g,4.61 g,0.00 g,3.70 g,0.93 g,0.72 g,0 mg,90.07 g
+563,"Candies, ALMOND JOY Candy Bar",100 g,479,27 g,59.51 g,5.0 g,48.34 g,0 g,0 g,26.93 g,1.23 g,0 mg,8.20 g
+564,"Cheese substitute, mozzarella",100 g,248,12 g,23.67 g,0 g,23.67 g,0 g,0 g,12.22 g,5.27 g,0 mg,47.36 g
+565,"Crustaceans, raw, queen, crab",100 g,90,1.2 g,0.00 g,0 g,0 g,0 g,0 g,1.18 g,2.00 g,0 mg,80.58 g
+566,"Wheat, cooked, KAMUT khorasan",100 g,132,0.8 g,27.60 g,4.3 g,3.07 g,0 g,0 g,0.83 g,0.67 g,0 mg,65.18 g
+567,"Sauce, ready-to-serve, hoisin",100 g,220,3.4 g,44.08 g,2.8 g,27.26 g,0 g,0 g,3.39 g,4.98 g,0 mg,44.23 g
+568,"Sauce, ready-to-serve, oyster",100 g,51,0.3 g,10.92 g,0.3 g,0 g,0 g,0 g,0.25 g,7.49 g,0 mg,80.00 g
+569,"Noodles, dry, somen, japanese",100 g,356,0.8 g,74.10 g,4.3 g,0 g,0 g,0 g,0.81 g,4.54 g,0 mg,9.21 g
+570,"Crackers, reduced fat, cheese",100 g,418,12 g,68.19 g,3.3 g,0 g,0 g,0 g,11.67 g,2.84 g,0 mg,7.30 g
+571,"Cookies, reduced fat, oatmeal",100 g,365,10 g,64.62 g,16.1 g,32.14 g,0 g,0 g,10.04 g,1.86 g,0 mg,19.46 g
+572,"Cranberries, sweetened, dried",100 g,308,1.1 g,82.80 g,5.3 g,72.56 g,29.69 g,0.08 g,1.09 g,0.15 g,0 mg,15.79 g
+573,"Cheese, queso cotija, mexican",100 g,366,30 g,3.97 g,0 g,0 g,0 g,0 g,30.00 g,8.03 g,0 mg,38.00 g
+574,"Rolls, hard (includes kaiser)",100 g,293,4.3 g,52.70 g,2.3 g,1.77 g,0 g,0 g,4.30 g,2.00 g,0 mg,31.00 g
+575,"Ostrich, cooked, inside strip",100 g,164,4.3 g,0.00 g,0 g,0 g,0 g,0 g,4.26 g,0.85 g,0 mg,66.53 g
+576,"SILK Light Chocolate, soymilk",100 g,49,0.6 g,9.05 g,0.8 g,7.82 g,0 g,0 g,0.62 g,0.64 g,0 mg,87.63 g
+577,"Candies, sugar-coated almonds",100 g,474,18 g,68.26 g,2.5 g,62.50 g,0 g,0 g,17.93 g,1.51 g,0 mg,2.30 g
+578,"KELLOGG'S, Corn Flakes Crumbs",100 g,367,0.4 g,84.40 g,1.2 g,9.30 g,0 g,0 g,0.40 g,0 g,0 mg,3.00 g
+579,"Cheese, queso seco, dry white",100 g,325,24 g,2.04 g,0 g,0.55 g,0.00 g,0.25 g,24.35 g,6.93 g,0 mg,42.17 g
+580,"Fish, raw, wild, coho, salmon",100 g,146,5.9 g,0.00 g,0 g,0 g,0 g,0 g,5.93 g,1.21 g,0 mg,72.66 g
+581,"Beets, drained solids, canned",100 g,31,0.1 g,7.21 g,1.8 g,5.51 g,0 g,0 g,0.14 g,0.78 g,0 mg,90.96 g
+582,"Beef, reduced sodium, bologna",100 g,310,28 g,2.00 g,0 g,0 g,0 g,0 g,28.40 g,3.10 g,0 mg,54.80 g
+583,"Fast foods, hot fudge, sundae",100 g,180,5.5 g,30.17 g,0 g,0 g,0 g,0 g,5.46 g,1.10 g,1.00 mg,59.70 g
+584,"KEEBLER, Iced Oatmeal Cookies",100 g,467,18 g,69.50 g,4.1 g,35.60 g,0 g,0 g,18.30 g,0 g,0 mg,4.50 g
+585,"Ice creams, fat free, vanilla",100 g,138,0 g,30.06 g,1.0 g,6.30 g,0 g,0 g,0.00 g,1.11 g,0 mg,64.35 g
+586,"Turkey Pot Pie, frozen entree",100 g,176,8.8 g,17.70 g,1.1 g,0 g,0 g,0 g,8.80 g,1.30 g,0 mg,65.70 g
+587,"Peanut butter, reduced sodium",100 g,590,50 g,21.83 g,6.6 g,9.29 g,0 g,0 g,49.90 g,3.17 g,0 mg,1.10 g
+588,"Oil, salad or cooking, peanut",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+589,"Turkey, raw, meat only, whole",100 g,112,1.9 g,0.14 g,0 g,0.07 g,0.00 g,0  g,1.93 g,1.04 g,0 mg,75.37 g
+590,"Syrups, fudge-type, chocolate",100 g,350,8.9 g,62.90 g,2.8 g,34.82 g,0 g,0 g,8.90 g,1.80 g,7.00 mg,21.80 g
+591,"Corn, steamed (Navajo), white",100 g,386,5.2 g,75.20 g,16.6 g,6.47 g,1.09 g,0  g,5.18 g,1.81 g,0 mg,8.09 g
+592,"Fish, raw, mixed species, eel",100 g,184,12 g,0.00 g,0 g,0 g,0 g,0 g,11.66 g,1.41 g,0 mg,68.26 g
+593,"Spices, dried, coriander leaf",100 g,279,4.8 g,52.10 g,10.4 g,7.27 g,0 g,0 g,4.78 g,14.08 g,0 mg,7.30 g
+594,"Popovers, unenriched, dry mix",100 g,371,4.3 g,71.00 g,0 g,0 g,0 g,0 g,4.30 g,2.60 g,0 mg,11.70 g
+595,"Lemon grass (citronella), raw",100 g,99,0.5 g,25.31 g,0 g,0 g,0 g,0 g,0.49 g,1.80 g,0 mg,70.58 g
+596,"Candies, with almonds, nougat",100 g,398,1.7 g,92.39 g,3.3 g,44.97 g,0 g,0 g,1.67 g,0.46 g,0 mg,2.15 g
+597,"Fish, raw, Atlantic, mackerel",100 g,205,14 g,0.00 g,0 g,0 g,0 g,0 g,13.89 g,1.35 g,0 mg,63.55 g
+598,"Candies, REESE'S PIECES Candy",100 g,497,25 g,59.86 g,3.0 g,53.25 g,0 g,0 g,24.77 g,1.81 g,0 mg,1.00 g
+599,"Sauce, ready-to-serve, cheese",100 g,174,13 g,6.83 g,0.5 g,0.42 g,0 g,0 g,13.29 g,2.67 g,0 mg,70.50 g
+600,"Noodles, unenriched, dry, egg",100 g,384,4.4 g,71.27 g,3.3 g,1.88 g,0.10 g,0  g,4.44 g,1.12 g,0 mg,9.01 g
+601,"Egg, scrambled, cooked, whole",100 g,149,11 g,1.61 g,0 g,1.39 g,0.28 g,1.11 g,10.98 g,1.01 g,0 mg,76.40 g
+602,"Egg, raw, fresh, whole, goose",100 g,185,13 g,1.35 g,0 g,0.94 g,0 g,0 g,13.27 g,1.08 g,0 mg,70.43 g
+603,"Jujube, dried, fresh, Chinese",100 g,281,0.5 g,72.52 g,6.0 g,0 g,18.28 g,0 g,0.50 g,2.08 g,0 mg,20.19 g
+604,"GIRL SCOUTS, Trefoils Cookies",100 g,498,23 g,68.00 g,1.6 g,20.70 g,0 g,0 g,22.90 g,0 g,0 mg,2.50 g
+605,"Quail, raw, meat only, breast",100 g,123,3 g,0.00 g,0 g,0 g,0 g,0 g,2.99 g,1.27 g,0 mg,71.67 g
+606,"Blueberries, sweetened, dried",100 g,317,2.5 g,80.00 g,7.5 g,67.50 g,0 g,0 g,2.50 g,0.73 g,0 mg,14.80 g
+607,"McDONALD'S, Hot Mustard Sauce",100 g,190,7.3 g,29.08 g,5.0 g,21.76 g,11.20 g,0  g,7.31 g,2.36 g,0 mg,58.65 g
+608,"Candies, PAYDAY Bar, HERSHEYS",100 g,490,25 g,52.88 g,3.8 g,40.32 g,0 g,0 g,25.00 g,1.70 g,0 mg,6.97 g
+609,"Sauce, ready-to-serve, tartar",100 g,211,17 g,13.30 g,0.5 g,4.25 g,0 g,0 g,16.70 g,1.96 g,0 mg,67.00 g
+610,Pulled pork in barbecue sauce,100 g,168,4.4 g,18.74 g,1.2 g,15.20 g,6.36 g,0  g,4.42 g,2.65 g,0 mg,60.99 g
+611,"Sauce, thick, white, homemade",100 g,186,14 g,11.61 g,0.3 g,3.98 g,0 g,0 g,13.83 g,1.47 g,0 mg,69.10 g
+612,"Veal, broiled, cooked, ground",100 g,172,7.6 g,0.00 g,0 g,0 g,0 g,0 g,7.56 g,1.31 g,0 mg,66.76 g
+613,"Bison, raw, grass-fed, ground",100 g,146,7.2 g,0.05 g,0 g,0 g,0 g,0 g,7.21 g,0.91 g,0 mg,71.59 g
+614,"Bread, bollilo, Mexican, roll",100 g,318,5.8 g,55.77 g,2.2 g,3.55 g,0.40 g,0  g,5.80 g,1.73 g,0 mg,26.05 g
+615,"McDONALD'S, Chicken McNUGGETS",100 g,302,20 g,15.09 g,0 g,0.08 g,0.00 g,0  g,19.81 g,2.19 g,0 mg,47.13 g
+616,"Currants, raw, european black",100 g,63,0.4 g,15.38 g,0 g,0 g,0 g,0 g,0.41 g,0.86 g,0 mg,81.96 g
+617,"Pineapple, all varieties, raw",100 g,50,0.1 g,13.12 g,1.4 g,9.85 g,1.73 g,0  g,0.12 g,0.22 g,0 mg,86.00 g
+618,"Fish, raw, Atlantic, wolffish",100 g,96,2.4 g,0.00 g,0 g,0 g,0 g,0 g,2.39 g,1.16 g,0 mg,79.90 g
+619,"Cereals ready-to-eat, FAMILIA",100 g,388,6.3 g,73.80 g,8.5 g,23.20 g,0 g,0 g,6.30 g,8.50 g,0 mg,1.90 g
+620,"Leavening agents, baking soda",100 g,0,0 g,0.00 g,0 g,0 g,0 g,0 g,0.00 g,36.90 g,0 mg,0.20 g
+621,"Asparagus, unprepared, frozen",100 g,24,0.2 g,4.10 g,1.9 g,0 g,0 g,0 g,0.23 g,0.62 g,0 mg,91.82 g
+622,"English muffins, whole-wheat",100 g,203,2.1 g,40.40 g,6.7 g,8.09 g,0 g,0 g,2.10 g,2.80 g,0 mg,45.70 g
+623,"Ice creams, light, chocolate",100 g,187,7.2 g,25.70 g,0.8 g,24.71 g,0 g,0 g,7.19 g,0.69 g,2.00 mg,61.43 g
+624,"Crackers, wheat, melba toast",100 g,374,2.3 g,76.40 g,7.4 g,0 g,0 g,0 g,2.30 g,2.90 g,0 mg,5.50 g
+625,"Crackers, plain, melba toast",100 g,390,3.2 g,76.60 g,6.3 g,0.94 g,0 g,0 g,3.20 g,3.00 g,0 mg,5.10 g
+626,"Crackers, plain, wafers, rye",100 g,334,0.9 g,80.40 g,22.9 g,1.01 g,0 g,0 g,0.90 g,4.10 g,0 mg,5.00 g
+627,"Apples, with skin, gala, raw",100 g,57,0.1 g,13.68 g,2.3 g,10.37 g,1.66 g,0  g,0.12 g,0.20 g,0 mg,85.76 g
+628,"Fish, dry heat, cooked, ling",100 g,111,0.8 g,0.00 g,0 g,0 g,0 g,0 g,0.82 g,1.79 g,0 mg,73.88 g
+629,"Fish, dry heat, cooked, cusk",100 g,112,0.9 g,0.00 g,0 g,0 g,0 g,0 g,0.88 g,1.60 g,0 mg,69.68 g
+630,"Peanut spread, reduced sugar",100 g,650,55 g,14.23 g,7.8 g,6.35 g,0 g,0 g,54.89 g,4.15 g,0 mg,1.93 g
+631,"Beerwurst, pork, beer salami",100 g,238,19 g,2.06 g,0 g,0 g,0 g,0 g,18.80 g,3.44 g,0 mg,61.46 g
+632,"Babyfood, junior, beef, meat",100 g,81,2.5 g,2.43 g,0 g,0 g,0 g,0 g,2.52 g,0.57 g,0 mg,82.44 g
+633,"Peppers, sauteed, red, sweet",100 g,133,13 g,6.57 g,1.8 g,4.28 g,1.91 g,0  g,12.75 g,0.70 g,0 mg,78.95 g
+634,"Tree fern, with salt, cooked",100 g,40,0.1 g,10.78 g,3.7 g,0 g,0 g,0 g,0.07 g,0.26 g,0 mg,88.60 g
+635,"Pheasant, meat and skin, raw",100 g,181,9.3 g,0.00 g,0 g,0 g,0 g,0 g,9.29 g,1.27 g,0 mg,67.77 g
+636,"Oil, salad or cooking, olive",100 g,884,100 g,0.00 g,0 g,0 g,0 g,0 g,100.00 g,0.00 g,0 mg,0.00 g
+637,"Squash, raw, hubbard, winter",100 g,40,0.5 g,8.70 g,3.9 g,3.95 g,0 g,0 g,0.50 g,0.80 g,0 mg,88.00 g
+638,"Rambutan, syrup pack, canned",100 g,82,0.2 g,20.87 g,0.9 g,0 g,0 g,0 g,0.21 g,0.23 g,0 mg,78.04 g
+639,"Fish, raw, Atlantic, herring",100 g,158,9 g,0.00 g,0 g,0 g,0 g,0 g,9.04 g,1.46 g,0 mg,72.05 g
+640,"Bologna, beef, pork, chicken",100 g,272,23 g,5.61 g,0 g,0 g,0 g,0 g,22.73 g,3.93 g,0 mg,56.42 g
+641,"DENNY'S, golden fried shrimp",100 g,319,20 g,20.93 g,1.5 g,0.75 g,0.20 g,0  g,20.01 g,4.14 g,0 mg,41.05 g
+642,"McDONALD'S, Hot Fudge Sundae",100 g,186,5.9 g,30.05 g,0.4 g,26.89 g,0.79 g,5.86 g,5.91 g,1.09 g,0 mg,58.81 g
+643,"Fish, raw, spanish, mackerel",100 g,139,6.3 g,0.00 g,0 g,0 g,0 g,0 g,6.30 g,1.27 g,0 mg,71.67 g
+644,"PEPPERIDGE FARM, White Bread",100 g,280,5.1 g,50.20 g,1.6 g,5.10 g,0 g,0 g,5.10 g,2.30 g,0 mg,33.80 g
+645,"Crackers, low sodium, cheese",100 g,503,25 g,58.20 g,2.4 g,0.28 g,0 g,0 g,25.30 g,3.30 g,0 mg,3.10 g
+646,"USDA Commodity, canned, pork",100 g,196,13 g,0.59 g,0 g,0 g,0 g,0 g,12.95 g,1.24 g,0 mg,65.82 g
+647,Orange Pineapple Juice Blend,100 g,51,0.1 g,12.20 g,0.2 g,10.57 g,0 g,0 g,0.08 g,0.35 g,0 mg,87.24 g
+648,"Beverages, hard cider, AMBER",100 g,56,0 g,5.92 g,0 g,5.92 g,0 g,0 g,0.00 g,1.35 g,0 mg,89.00 g
+649,"Babyfood, apple-banana juice",100 g,51,0.1 g,12.30 g,0.2 g,11.00 g,0 g,0 g,0.10 g,0.26 g,0 mg,87.10 g
+650,"Spices, ground, mustard seed",100 g,508,36 g,28.09 g,12.2 g,6.79 g,2.88 g,0  g,36.24 g,4.33 g,0 mg,5.27 g
+651,"ON THE BORDER, refried beans",100 g,144,5 g,17.52 g,8.2 g,0.84 g,0.00 g,0  g,5.00 g,2.01 g,0 mg,68.17 g
