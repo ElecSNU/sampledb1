@@ -31,4 +31,6 @@ CREATE TABLE stories (
 ) PRIMARY KEY(id);
 
 CREATE INDEX StoriesByAuthor ON stories(name);
+CREATE INDEX StoriesByTitleTimeScore ON stories(name) STORING (ash, sugars)
+
 
