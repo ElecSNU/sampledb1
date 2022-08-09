@@ -81,17 +81,19 @@ def main(instance_id, database_id):
   # Sets the Column names.
   s_columnnames = (
       'id',
-      'by',
-      'author',
-      'dead',
-      'deleted',
-      'descendants',
-      'score',
-      'text',
-      'time',
-      'time_ts',
-      'title',
-      'url',
+      'name',
+      'serving_size',
+      'calories',
+      'total_fat',
+      'carbohydrate',
+      'fiber',
+      'sugars',
+      'glucose',
+      'lactose',
+      'fat',
+      'ash',
+      'caffeine',
+      'water',
   )
 
   c_columnnames = (
