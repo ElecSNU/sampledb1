@@ -76,7 +76,7 @@ def main(instance_id, database_id):
 
   # File paths.
   comments_file = 'hnewscomments.csv'
-  stories_file = 'hnewsstories.csv'
+  stories_file = 'nutrition1.csv'
 
   # Sets the Column names.
   s_columnnames = (
