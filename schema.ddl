@@ -7,7 +7,7 @@ CREATE TABLE user (
   snacks INT64,
   dinner INT64,
   bmi FLOAT,
-) PRIMARY KEY(id);
+) PRIMARY KEY(name);
 
 CREATE INDEX CommentsByAuthor ON user(name);
 
