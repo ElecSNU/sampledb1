@@ -1,19 +1,17 @@
-CREATE TABLE comments (
-  id INT64,
-  author STRING(MAX),
-  `by` STRING(MAX),
-  dead BOOL,
-  deleted BOOL,
-  parent INT64,
-  ranking INT64,
-  text STRING(MAX),
-  time INT64,
-  time_ts TIMESTAMP,
-) PRIMARY KEY(parent, id);
+CREATE TABLE user (
+  name STRING(MAX),,
+  weight STRING(MAX),
+  height STRING(MAX),
+  breakfast INT64,
+  lunch INT64,
+  snacks INT64,
+  dinner INT64,
+  bmi FLOAT,
+) PRIMARY KEY(id);
 
-CREATE INDEX CommentsByAuthor ON comments(author);
+CREATE INDEX CommentsByAuthor ON user(name);
 
-CREATE TABLE stories (
+CREATE TABLE nutrition (
   id INT64,
   name STRING(MAX),
   serving_size STRING(MAX),
@@ -30,7 +28,7 @@ CREATE TABLE stories (
   water STRING(MAX),
 ) PRIMARY KEY(id);
 
-CREATE INDEX StoriesByAuthor ON stories(name);
-CREATE INDEX StoriesByTitleTimeScore ON stories(name) STORING (ash, sugars)
+CREATE INDEX StoriesByAuthor ON nutrition(name);
+CREATE INDEX StoriesByTitleTimeScore ON nutrition(name) STORING (ash, sugars)
 
 
