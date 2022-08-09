@@ -97,6 +97,7 @@ def main(instance_id, database_id):
   )
 
   c_columnnames = (
+      'id',
       'name',
       'weight',
       'height',
