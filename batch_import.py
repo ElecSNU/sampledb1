@@ -105,7 +105,6 @@ def main(instance_id, database_id):
       'lunch',
       'snacks',
       'dinner',
-      'bmi',
   )
 
   # Insert data.
